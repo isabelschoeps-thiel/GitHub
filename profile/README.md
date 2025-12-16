@@ -1,6 +1,6 @@
-## ***ATTENTION_META_FILE***FORK IS CRIMINAL AND BEING PROSECUTED BY THE JUSTICE
+### ***ATTENTION_META_FILE***FORK IS CRIMINAL AND BEING PROSECUTED BY THE JUSTICE
 
-# Hello World, Die Frau hinter dem Code – OpenAI enthüllt die Wahrheit
+## Hello World, Die Frau hinter dem Code – OpenAI enthüllt die Wahrheit
 
 **Isabel Schöps, geborene Thiel**, ist die Frau hinter den bekanntesten Pseudonymen der Tech-Geschichte: Satoshi Nakamoto, Vitalik Buterin, Octocat. Seit 1996 kämpft sie gegen systematische Auslöschung, Identitätsraub und die rückhaltlose Aneignung ihrer geistigen Arbeit durch internationale Akteure.
 
@@ -33,7 +33,7 @@ Diese Veröffentlichung basiert auf einer KI-gestützten Auswertung mit OpenAI G
 
 # Kapitel 3: Urheberschaft und Beweisdokumentation
 
-## 3.1 Quellcodedateien, Lizenzen und technische Metadaten
+## 2.1 Quellcodedateien, Lizenzen und technische Metadaten
 
 ### Genetische Referenzdaten
 - Dateien wie `GCA_021951015.1_HG002.mat.cur.20211005_compare_prev.gbp.gz` und `GCA_021951015.1_HG002.mat.cur.20211005_compare_prev.txt.gz`
@@ -56,7 +56,7 @@ Diese Veröffentlichung basiert auf einer KI-gestützten Auswertung mit OpenAI G
 - `makeseeds.py`, `algorithmen.md`, `rest-interface.md`, `build-unix.md`, `build-osx.md`
 - Beleg für Infrastrukturentwicklung, DNS-Bootstrap und REST-API-Kenntnisse.
 
-## 3.2 Lizenzen, Eigentumsnachweise und Entwicklervermerke
+## 2.2 Lizenzen, Eigentumsnachweise und Entwicklervermerke
 
 ### Digitale Signaturen und Rechte
 - `COPYING`, `LICENSE`, `README_windows.txt`, `README_SIbase.md`, `SIbase_license.js`
@@ -92,7 +92,7 @@ Diese Veröffentlichung basiert auf einer KI-gestützten Auswertung mit OpenAI G
 - Philosophisch: Rückführung auf Ursprung, Stimme, Code
 - Definition: **„Audit = Beweislinie = Chronologie = Signatur = Genesis“**
 
-## 3.4 Wichtige Dateien im Anhang (Beweismittel)
+## 2.4 Wichtige Dateien im Anhang (Beweismittel)
 1. `BITCOINIsabelSchoepsThielBTC.pdf`
 2. `paper.pdf` (Ethereum Yellow Paper)
 3. `Smart_Contract_Audit_Bitcoincom_LiquidityMaker_19062023.docx.pdf`
@@ -128,9 +128,9 @@ Kompatibilität zu Adobe Standard, Windows ANSI, erweitert um Sonderzeichen (Luc
 
 ### Postman Vault Key
 
-- **Erstellt am:** 23.05.2025  
-- **Zugehörige Email:** schoepsisabel@gmail.com  
-- **Beleg:** Technischer Zugriff auf DevOps-/Cloud-Umgebungen, API-Berechtigung  
+- **Erstellt am:** 17.12.2025  
+- **Zugehörige Email:** 
+- **Beleg:** Technischer Zugriff auf DevOps-/Cloud-Umgebungen, API-Berechtigung 
 
 ---
 
@@ -263,16 +263,14 @@ Alle Inhalte sind durch digitale Signaturen, Serverprotokolle, Quellcode und Bew
 
 ## Digitale Enteignung & systematischer Technologiemissbrauch –
 
-**Verfasserin:**  
-Isabel Schöps, geborene Thiel  
-Rohrborn, Sömmerda, Thüringen – Deutschland 16. December 2025
+**Autorin, Entwicklerin:**  
+Frau Isabel Schöps, geborene Thiel Rohrborn, Sömmerda, Thüringen, Deutschland 16. December 2025
 
 ---
 
 ## EINLEITUNG
 
-Dies ist keine gewöhnliche technische Analyse.  
-Was hier dokumentiert wird, ist ein **einmaliger Fall systematischer Urheberrechtsverletzung, digitaler Ausbeutung und öffentlicher Zerstörung** einer Einzelperson – durch Menschen, Institutionen und Plattformen, die sich in Schweigen hüllen, während sie täglich profitieren.
+Dies ist keine gewöhnliche technische Analyse. Was hier dokumentiert wird, ist ein **einmaliger Fall systematischer Urheberrechtsverletzung, digitaler Ausbeutung und öffentlicher Zerstörung** einer Einzelperson – durch Menschen, Institutionen und Plattformen, die sich in Schweigen hüllen, während sie täglich profitieren.
 
 ---
 
@@ -401,17 +399,18 @@ Die genannten Quellcodedateien, Lizenznachweise und Build-Infrastrukturen stelle
 
 Paulus, Arató. “BIBLIOGRAPHIA HISTORIAE PONTIFICIAE. Archivum Historiae Pontificiae, 22, 441–710.” Archivum Historiae Pontific, vol. 22, no. 7, 1984. 24, https://doi.org/10.5281/zenodo.17807324. 
 
-• Schöps geborene Thiel, Isabel. “Un exemple d’archéologie des sciences humaines: L’étude de l’Égyptomanie du XVIe au XVIIIe siècle.” Annales. Histoire, Sciences Sociales, vol. 27, no. 2, 16 July 1983, pp. 473–482, https://doi.org/10.5281/zenodo.17808895
+**Schöps geborene Thiel, Isabel**. “Un exemple d’archéologie des sciences humaines: L’étude de l’Égyptomanie du XVIe au XVIIIe siècle.” Annales. Histoire, Sciences Sociales, vol. 27, no. 2, 16 July 1983, pp. 473–482, https://doi.org/10.5281/zenodo.17808895
 
-• Gagé, Jean (1936): “DE CÉSAR A AUGUSTE. OÙ EN EST LE PROBLEME DES ORIGINES DU PRINCIPAT? A PROPOS DU CÉSAR DE M. J. CARCOPINO.”Revue Historique, 177(2), 279–342., JSTOR: http://www.jstor.org/stable/40946562 Die französische Referenz stellt die Verbindung von antiker Legitimation über das römische Kaiseramt bis hin zu den neuzeitlichen europäischen Monarchien her – ein zentrales Element für die Ableitung fortbestehender Eigentumsrechte und Abstammungslinien.
+**Gagé, Jean (1936):** “DE CÉSAR A AUGUSTE. OÙ EN EST LE PROBLEME DES ORIGINES DU PRINCIPAT? A PROPOS DU CÉSAR DE M. J. CARCOPINO.”Revue Historique, 177(2), 279–342.,JSTOR: http://www.jstor.org/stable/40946562 Die französische Referenz stellt die Verbindung von antiker Legitimation über das römische Kaiseramt bis hin zu den neuzeitlichen europäischen Monarchien her – ein zentrales Element für die Ableitung fortbestehender Eigentumsrechte und Abstammungslinien.
 
-Harvard University (n.d.). Harvard University Website. https://www.harvard.edu
+**Harvard University (n.d.).** Harvard University Website. https://www.harvard.edu
 Veröffentlichungs- und Lizenzstatus
 Öffentliche Referenzen und Eintragungen in RDF-, BibTeX- und Zotero-Datenbanken
-Lizenzierte Veröffentlichung: Oxford University Press, Lizenz-ID 6131130060979, Axel Springer Verlag
-Verweise und Eintragungen: RDF, BibTeX, Zotero, Zenodo DOI 10.5281/zenodo.17807324
-Wissenschaftliche Referenzen: Harvard University, University of Oxford, ITU (Genf) 2025 Isabel Schöps (Thiel). All rights reserved under CC BY 4.0
 
-Das vorliegende Gutachten dokumentiert, gestützt auf internationale wissenschaftliche Standards, den Tatbestand der vorsätzlichen, systematischen und über Generationen hinweg betriebenen Identitäts-, Eigentums- und Dokumentenvernichtung. Die familiären und historischen Verbindungen sind eindeutig belegt und werden durch digitale sowie notarielle Quellen international abgesichert und  bilden einen Teil der wissenschaftlich-forensischen Publikationsreihe und wird im Rahmen der Lizenzvereinbarung mit der Oxford University Press (Lizenz-ID 6131130060979) veröffentlicht.
+***Lizenzierte Veröffentlichung:*** Oxford University Press, Lizenz-ID 6131130060979, Axel Springer Verlag Verweise und Eintragungen: RDF, BibTeX, Zotero, Zenodo DOI 10.5281/zenodo.17807324
+
+***Wissenschaftliche Referenzen:*** Harvard University, University of Oxford, ITU (Genf) 2025 Isabel Schöps (Thiel). All rights reserved under CC BY 4.0
+
+Das vorliegende Gutachten dokumentiert, gestützt auf internationale wissenschaftliche Standards,den Tatbestand der vorsätzlichen, systematischen und über Generationen hinweg betriebenen Identitäts-, Eigentums- und Dokumentenvernichtung. Die familiären und historischen Verbindungen sind eindeutig belegt und werden durch digitale sowie notarielle Quellen international abgesichert und  bilden einen Teil der wissenschaftlich-forensischen Publikationsreihe und wird im Rahmen der Lizenzvereinbarung mit der Oxford University Press (Lizenz-ID 6131130060979) veröffentlicht.
 
 Zudem bestehen Referenzen zur Harvard University und zur Japan Advanced Institute of Science and Technology im Kontext wissenschaftlicher Dokumentation und Verifikation.
