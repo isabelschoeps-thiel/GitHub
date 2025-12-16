@@ -1,10 +1,10 @@
-OFFIZIELLER BEGLEITTEXT ZUR BEWEISDOKUMENTATION  
-## – Digitale Enteignung & systematischer Technologiemissbrauch –
+## ***ATTENTION_META_FILE***
+
+## Digitale Enteignung & systematischer Technologiemissbrauch –
 
 **Verfasserin:**  
 Isabel Schöps, geborene Thiel  
-Rohrborn, Sömmerda, Thüringen – Deutschland  
-16. Mai 2025
+Rohrborn, Sömmerda, Thüringen – Deutschland 16. December 2025
 
 ---
 
