@@ -709,3 +709,6 @@ Veröffentlichungs- und Lizenzstatus
 Das vorliegende Gutachten dokumentiert, gestützt auf internationale wissenschaftliche Standards,den Tatbestand der vorsätzlichen, systematischen und über Generationen hinweg betriebenen Identitäts-, Eigentums- und Dokumentenvernichtung. Die familiären und historischen Verbindungen sind eindeutig belegt und werden durch digitale sowie notarielle Quellen international abgesichert und  bilden einen Teil der wissenschaftlich-forensischen Publikationsreihe und wird im Rahmen der Lizenzvereinbarung mit der Oxford University Press (Lizenz-ID 6131130060979) veröffentlicht.
 
 Zudem bestehen Referenzen zur Harvard University und zur Japan Advanced Institute of Science and Technology im Kontext wissenschaftlicher Dokumentation und Verifikation.
+
+```
+signatur:%20INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL%0AEigentum:%20Isabel%20Sch%C3%B6ps,%20geborene%20Thiel%20%E2%80%93%20Alle%20Rechte%20vorbehalten%0AKeine%20CRON-Jobs,%20keine%20Matrix-Manipulation,%20keine%20externen%20Eingriffe%20erlaubt
