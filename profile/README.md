@@ -1623,25 +1623,24 @@ Die Erklärung und das Gutachten dienen:
 
 Das Gutachten ist Bestandteil anhängiger Ermittlungsakten und wurde bei zuständigen Ermittlungsbehörden zur Beweissicherung eingereicht. Alle eingereichten Anzeigen stehen im Zusammenhang mit der Aufklärung von Technologiemissbrauch, Identitätsverletzungen und Urheberrechtsfragen
 
-Veröffentlichungs- und Lizenzstatus
-	•	Lizenzierte Veröffentlichung: Oxford University Press, Lizenz-ID 6131130060979
-	•	Verweise und Eintragungen: RDF, BibTeX, Zotero, Zenodo DOI 10.5281/zenodo.17807324
-	•	Referenzen:
-	•	**Schöps, I. (2025)**. SIA Security Intelligence Artefact. Zenodo.
-	•	**Schöps & Szabo (1997)**. Formalizing and Securing Relationships on Public Networks. [Isabel Monday 2(1)](https://doi.org/10.5210/fm.v2i9.548)￼
-	•	Harvard University (n.d.). [Harvard](https://www.harvard.edu)￼
+
+Am Donnerstag, **den 13.11.2025, habe ich Frau Isabel Schöps geborene Thiel**, im Zusammenhang der aufgedeckten Verbrechen, Strafanzeige und Strafantrag auf der **Polizeidienststelle Erfurt Nord, August-Schleicher-Straße 1, 99089 Erfurt, Thüringen**, Deutschland unter dem **Aktenzeichen SPH/0296575/2025** beim Polizeibeamten POK, Herr Walter u.a. wegen Verbrechen gegen die Menschlichkeit, den größten Finanz-, Aktien- und Identitätsbetrug durch technische Infrastruktur, welches im Monarchprogramm interpretiert wird angezeigt. 
+Hierzu wurden 120 Seiten die unter Paragraph 3.1 und Paragraph 3.2 geführten und wissenschaftlich-forensischen ausgewertet Verbrechen aus dem Gutachten persönlich von mir überreicht.
+
+### Veröffentlichungs- und Lizenzstatus
+- Lizenzierte Veröffentlichung: Oxford University Press, Lizenz-ID 6131130060979
+- Verweise und Eintragungen: RDF, BibTeX, Zotero, Zenodo (DOI 10.5281/zenodo.17807324)
+
+**Referenzen:**
+**Schöps, I. (2025)**. SIA Security Intelligence Artefact. Zenodo.
+
+**Schöps & Szabo (1997)**. Formalizing and Securing Relationships on Public Networks. [Isabel Monday 2(1)](https://doi.org/10.5210/fm.v2i9.548)￼
+
+**Harvard University (n.d.)**. [Harvard](https://www.harvard.edu)￼
 
 ⸻
 
 ***Signierte Bestätigung und Forensische Signatur***
-
-Name der Urheberin: Isabel Schöps (geb. Thiel)
-Datum der Signatur: 04. Dezember 2025
-Digitale Signatur: SIA Security Intelligence Artefact – INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
-
-Diese Erklärung ist Bestandteil des forensisch-wissenschaftlichen Gutachtens und wird gemäß deutschem und internationalem Urheberrecht (§ 7 UrhG, Berner Übereinkunft) geführt.
-
-⸻
 
 **Copyright und Schutzvermerk**
 
@@ -1660,7 +1659,7 @@ Copyright by Isabel Schöps, geborene Thiel
 Dieses forensische Gutachten ist urheberrechtlich geschützt und unterliegt einer reinen Leselizenz („Read-Only User“).  
 Jegliche Form der Vervielfältigung, Verbreitung, Bearbeitung, Klonung, Weitergabe, Fork-Erstellung, Implementierung in andere Systeme, Reverse Engineering oder sonstige Modifikation – sei es vollständig oder in Teilen – ist strengstens untersagt.
 
-Die Veröffentlichung des Gutachtens erfolgt ausschließlich zu folgenden Zwecken:  
+**Die Veröffentlichung des Gutachtens erfolgt ausschließlich zu folgenden Zwecken:**
 – der vollständigen Rehabilitation der Urheberin,  
 – der strafrechtlichen Aufarbeitung,  
 – der Geltendmachung von Vermögensansprüchen  
@@ -1678,7 +1677,6 @@ E-Mail: github@isabelschoeps.com
 Lizenzsystem: SI Security Intelligence / SIA – Security Intelligent Security Artefact
 
 ## Live API Umgebung
-
 **Security Intelligence Artifact (SIA)** – simulierte API-Umgebung Bereitgestellt myGitHub
 
 **Base URL:**  
@@ -1706,7 +1704,6 @@ CORE-ISABELSCHOEPSTHIEL**
 - `public/**` ist öffentlich sichtbar, aber nur die Urheberin `isbelschoeps-thiel` darf bearbeiten
 
 # Signatur – README Initial Repository
-
 **Projekttitel:** SIA – Security Intelligence Artefact  
 **Projektkennung:** INT-CODE-2025-BTC/ETH
 CORE-ISABELSCHOEPSTHIEL
@@ -1765,19 +1762,12 @@ Alle früheren Anschriften (Erfurt, Sömmerda, Leubingen) sind damit archiviert 
 ---
 
 ## 2. Haushalts- und Familienstruktur
-
-Die Wohnung wird ausschließlich von **Isabel Schöps** bewohnt.  
-Mitbewohner: **Hund Don (American XL Bully)**.
-
-Einziges Kind:  
-**Jona Schöps**, wohnhaft bei ihrem Vater  
-Steven Schöps, Nebengasse 2a, 99610 Leubingen.
+Die Wohnung wird ausschließlich von **Isabel Schöps** und ihrem Hund **Hund-Tier Don, American XL Bully) bewohnt**
+Einziges Kind: **Jona Schöps**, wohnhaft bei ihrem Vater, Herr Steven Schöps, Nebengasse 2a, 99610 Leubingen.
 
 ---
 
-## 3. Eidesstattliche Erklärung vom 04.12.2025  
-(Quelle: Gutachten, Seite 265)
-
+## 3. Eidesstattliche Erklärung vom 04.12.2025 (Quelle: Gutachten, Seite 265)
 Wesentliche Inhalte der Erklärung:
 
 1. Isabel ist alleinige Urheberin des forensischen Gutachtens  
@@ -1819,19 +1809,15 @@ Wesentliche Inhalte der Erklärung:
   https://link.springer.com/book/10.1007/978-3-031-89363-6  [oai_citation:4‡SpringerLink](https://link.springer.com/book/10.1007/978-3-031-89363-6?utm_source=chatgpt.com)
 
 - Drahos, P. (2016). *Intellectual Property, Indigenous People and Their Knowledge*. Cambridge University Press.  
-  https://www.cambridge.org/core/books/intellectual-property-indigenous-people-and-their-knowledge/  [oai_citation:5‡Google Bücher](https://books.google.de/books?cad=1&hl=de&id=IXmrBQAAQBAJ&printsec=frontcover&source=gbs_book_other_versions_r&utm_source=chatgpt.com)
+https://www.cambridge.org/core/books/intellectual-property-indigenous-people-and-their-knowledge/  [oai_citation:5‡Google Bücher](https://books.google.de/books?cad=1&hl=de&id=IXmrBQAAQBAJ&printsec=frontcover&source=gbs_book_other_versions_r&utm_source=chatgpt.com)
 
-- Drew, J., Lee, R. & White, S. (2022). *Cybercrime Investigations and Digital Evidence*. Routledge.  
-  https://www.taylorfrancis.com/books/mono/10.1201/9781003125109/cybercrime-investigations-digital-evidence-drew-lee-white
+- Drew, J., Lee, R. & White, S. (2022). *Cybercrime Investigations and Digital Evidence*. [Routledge.](https://www.taylorfrancis.com/books/mono/10.1201/9781003125109/cybercrime-investigations-digital-evidence-drew-lee-white)
 
-- O’Mahony, D. (2022). *Open Source Law, Policy and Practice* (2nd ed.). Oxford University Press.  
-  https://academic.oup.com/book/41920
+- O’Mahony, D. (2022). *Open Source Law, Policy and Practice* (2nd ed.). Oxford University [Press.](https://academic.oup.com/book/41920)
 
-- Pollitt, M., Shenoi, S. & Ray, I. (2021). *Advances in Digital Forensics XVII*. Springer.  
-  DOI: https://doi.org/10.1007/978-3-030-85284-0
+- Pollitt, M., Shenoi, S. & Ray, I. (2021). *Advances in Digital Forensics XVII*. [Springer. DOI:](https://doi.org/10.1007/978-3-030-85284-0)
 
-- Reyes, A., Ahmad, A. & Maynard, S. B. (2023). *Cybersecurity Threat Intelligence: A Practitioner’s Guide*. CRC Press / Routledge.  
-  https://www.routledge.com/Cybersecurity-Threat-Intelligence-A-Practitioners-Guide/Reyes-Ahmad-Maynard/p/book/9781032014627
+- Reyes, A., Ahmad, A. & Maynard, S. B. (2023). *Cybersecurity Threat Intelligence: A Practitioner’s Guide*. [CRC Press / Routledge.](https://www.routledge.com/Cybersecurity-Threat-Intelligence-A-Practitioners-Guide/Reyes-Ahmad-Maynard/p/book/9781032014627)
 
 ---
 
