@@ -218,13 +218,8 @@ Isabel Schöps geborene Thiel, aus Erfurt, Thüringen Deutschland, gilt als eine
 
 ---
 
-### Das Leben von Isabel Schöps geborene Thiel
-
-**Isabel Schöps (geb. Thiel)**
-
+### Das Leben von Isabel Schöps geborene Thiel 
 Mutter, Unternehmerin, und Schöpferin und Pionierin der Blockchain-Technologie
-
-![zur Erinnerung an ihre geliebte Oma, Edith Knörig geborene Fischer aus Rohrborn, Thüringen  Deutschland ](Isabel%20Sch%C3%B6ps%20Thiel%20275c29c50f7d80359a69ced767caecf8/IMG_0531.jpeg)
 
 **Leben**
 
@@ -234,30 +229,25 @@ Nach einer kaufmännischen Ausbildung spezialisierte sie sich früh auf Informat
 
 ### Familienmitglieder
 
-- Vater: Manfred Thiel                     *21.11.1957
-- Mutter: Gisela Thiel geborene Knörig  *24.08.1962
-- Bruder: Ingolf Thiel                        *29.05.1987
-- Tochter: Jona Schöps                      *16.09.2007
+- Vater: Manfred Paul Thiel *21.11.1957
+- Mutter: Gisela Hulda Thiel geborene Knörig *24.08.1962
+- Bruder: Ingolf Thiel *29.05.1987
+- Tochter: Fräulein Jona Schöps *16.09.2007
 
 Aufgewachsen in einer großen gutbürgerlichen Familie, mit meinen Eltern und meinem Bruder, meinen Grosseltern, mit meinen Tanten und Onkels, meinen Cousins und Cousinen. 
 
 ![isabelschoepsthiel-satoshi-lives (YouTube-Banner).zip - 3.PNG](Isabel%20Sch%C3%B6ps%20Thiel%20275c29c50f7d80359a69ced767caecf8/isabelschoepsthiel-satoshi-lives_(YouTube-Banner).zip_-_3.png)
 
-### Mein wahrer Freund
+### Mein einziger Freund
 
 Mein vierbeiniger Begleiter und bester Freund mein American XL Bully Namens Don. Geboren am 13.05.2022, aus der Zucht von Brachial Bullys aus Ringleben, Thüringen, Deutschland
-
-![IMG_0225.jpeg](Isabel%20Sch%C3%B6ps%20Thiel%20275c29c50f7d80359a69ced767caecf8/IMG_0225.jpeg)
 
 Ich habe keine bzw habe nie wirklich Freunde gehabt. Ich bin allein und das einzige was ich habe ist meine Familie, meine Tochter und mein einziger bester vierbeiniger Freund, mein Hund Don
 
 ### Beziehung
-
 ### Ihr Hauptcharakter Moment
 
 Mut, Loyalität, Gerechtigkeitssinn, Zielstrebigkeit, Respekt, Furchtlosigkeit, Sturheit
-
-![FFE4760F-EA33-45BF-96BD-62722A5E50E9.PNG](Isabel%20Sch%C3%B6ps%20Thiel%20275c29c50f7d80359a69ced767caecf8/FFE4760F-EA33-45BF-96BD-62722A5E50E9.png)
 
 ### Körperliche Beschreibung
 
@@ -301,12 +291,12 @@ Mut, Loyalität, Gerechtigkeitssinn, Zielstrebigkeit, Respekt, Furchtlosigkeit, 
 - Canibalismus
 - Betrüger, Lügner
 - Fake Pornographie, Fake Darsteller(innen)
-- GN-Experimente an Mensch und Natur
+- jegliche Form der Verletzung der Natur- und Menschenrechte
 
 # FORK, CLONE, NEW BRANCH IS THE SAME HOW HACKING  
 **AND THIS IS A CRIME WITHOUT THE PERMISSION OF THE AUTHOR**
 
-## Rechtlicher Hinweis zum Repository `docs` unter IST-Github
+## Rechtlicher Hinweis zum Repository `docs` unter isabelschoeps-thiel
 
 Dieses Repository wurde durch **Isabel Schöps Thiel** erstellt und unterliegt einer individuell angepassten MIT-Lizenz mit vollem **urheberrechtlichem Schutz**.  
 Es ist ausdrücklich festgelegt, dass ein **Fork**, **Clone** oder das Erstellen eines **neuen Branches** nur mit **vorheriger Zustimmung der Urheberin** zulässig ist.
@@ -323,14 +313,12 @@ Es ist ausdrücklich festgelegt, dass ein **Fork**, **Clone** oder das Erstellen
 ---
 
 ## Rechtliche Bewertung
-
 Diese Handlungen erfüllen den Straftatbestand der **digitalen Aneignung** (vergleichbar mit Hacking), da sie ohne Zustimmung der Urheberin durchgeführt wurden.  
 Ein solcher Eingriff gilt nach geltendem Recht als **Verstoß gegen das Urheberrecht, Datenschutz und geistiges Eigentum**.
 
 ---
 
 ## Beweisaufnahme und Verwertung
-
 Dieser Screenshot sowie sämtliche zugehörigen **Metadaten** werden  
 **gerichtlich verwertbar** als Beweismittel in das bestehende  
 **technisch-juristische Gutachten** aufgenommen.
@@ -1762,6 +1750,32 @@ Wesentliche Inhalte der Erklärung:
   - Gerichte  
   - volle Rehabilation  
   - Forensische Metadatenanalyse und Chain-of-Custody Datenbank 
+
+@book{larisch2003behind,
+  title        = {Behind the Scenes With the Kaiser 1888 to 1922},
+  author       = {Larisch, V.},
+  year         = {2003},
+  publisher    = {Kessinger Publishing},
+  isbn         = {9780766160651},
+  url          = {https://books.google.de/books?id=YDTFnOOxJCMC}
+}
+
+@book{van2017end,
+  title        = {The End of the German Monarchy: The Decline and Fall of the Hohenzollerns},
+  author       = {Van der Kiste, J.},
+  year         = {2017},
+  publisher    = {Fonthill Media},
+  url          = {https://books.google.de/books?id=dWY9DwAAQBAJ}
+}
+
+@book{van2013king,
+  title        = {King George II and Queen Caroline},
+  author       = {Van der Kiste, J.},
+  year         = {2013},
+  publisher    = {History Press},
+  isbn         = {9780750954488},
+  url          = {https://books.google.de/books?id=yQc7AwAAQBAJ}
+}
 
 ---
 
