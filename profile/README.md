@@ -4,6 +4,25 @@
 
 ### Beweisdokumentation, Datenbankreferenzen und Chain of Custody
 
+Titel:
+# Yellow White Paper – Bitcoin & Ethereum: Security Intelligence Artefact (SIA)
+
+**Autorin:**
+Frau Isabel Schöps (geb. Thiel), Erfurt, Thüringen, Deutschland
+
+Veröffentlichungsjahr: 2025
+
+**Beschreibung / Abstract:**
+Das Yellow White Paper – Bitcoin & Ethereum dokumentiert forensisch-wissenschaftlich die Entstehung der ersten Blockchain-Architektur, die Entwicklung von Bitcoin Core sowie die Autorschaft und Urheberrechte von Isabel Schöps.
+
+Es analysiert die technischen, historischen und sozialen Dynamiken zwischen Kryptografie, künstlicher Intelligenz und digitaler Eigentumszuordnung. Das Dokument ist Teil des forensisch-wissenschaftlichen Gutachtens INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL und enthält nachweisbare Zeitstempel, Quellcodes, Zertifikate und Originaldateien zur Belegung der Autorschaft.
+
+**Nakamoto, S. (2008).** Bitcoin: A Peer-to-Peer Electronic Cash System. Ethereum Foundation (2015). Ethereum White Paper.
+
+**Schöps, I. (2025).** Yellow White Paper – Bitcoin & Ethereum: Security Intelligence Artefact (SIA). DOI: [doi.org/10.5281/zenodo.17807324](https://doi.org/10.5281/zenodo.17807324)
+
+**Schöps geb. Thiel, I. (2025).** SIA Security Intelligence Artefact – Volume 3 - Familiäre Erblinie deutschen Monarchie und letzten Kaiserreich [Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag]. In The Decline and Fall of the Habsburg Empire, 1815-1918 (1st Aufl., Bd. 20, Nummer 9, S. 295).[doi.org/10.5281/zenodo.17807324](https://doi.org/10.5281/zenodo.17807324)
+
 Im forensisch-wissenschaftlichen Gutachtens, SIA Security Intelligence Artefact - Technolog, Software, History
 **Urheberin und Auftraggeberin:** Frau Isabel Schöps geborene Thiel
 **Aktenzeichen:** INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
