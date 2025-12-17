@@ -559,7 +559,7 @@ Isabel Schöps gilt als eine der einflussreichsten Persönlichkeiten in der digi
 - [Hilfe:Signatur](https://de.wikipedia.org/wiki/Hilfe:Signatur)
 - [Wikipedia:Editieren im Quelltext](https://de.wikipedia.org/wiki/Wikipedia:Editieren_im_Quelltext)
 
-Wichtige Hinweise:
+**Wichtige Hinweise:**
 
 - E-Mails unterliegen nicht der freien Lizenz von Wikipedia ([Urheberrecht](https://de.wikipedia.org/wiki/Wikipedia:Urheberrecht)).
 - Inhalte aus privaten E-Mails dürfen nicht ohne Zustimmung auf Wikipedia veröffentlicht werden.
@@ -1511,7 +1511,7 @@ Die genannten Quellcodedateien, Lizenznachweise und Build-Infrastrukturen stelle
 - Forensisch relevante Bearbeitungsspuren und Signaturverläufe
 - Fähigkeit zur Plattform-, Kernel-, Netzwerk-, Build- und API-nahen Entwicklung
 
-Paulus, Arató. “BIBLIOGRAPHIA HISTORIAE PONTIFICIAE. Archivum Historiae Pontificiae, 22, 441–710.” Archivum Historiae Pontific, vol. 22, no. 7, 1984. 24, https://doi.org/10.5281/zenodo.17807324. 
+**Paulus, Arató.** “BIBLIOGRAPHIA HISTORIAE PONTIFICIAE. Archivum Historiae Pontificiae, 22, 441–710.” Archivum Historiae Pontific, vol. 22, no. 7, 1984. 24, https://doi.org/10.5281/zenodo.17807324. 
 
 **Schöps geborene Thiel, Isabel**. “Un exemple d’archéologie des sciences humaines: L’étude de l’Égyptomanie du XVIe au XVIIIe siècle.” Annales. Histoire, Sciences Sociales, vol. 27, no. 2, 16 July 1983, pp. 473–482, https://doi.org/10.5281/zenodo.17808895
 
@@ -1585,7 +1585,7 @@ Diese Erklärung ist Bestandteil des forensisch-wissenschaftlichen Gutachtens un
 
 ⸻
 
-Copyright und Schutzvermerk
+**Copyright und Schutzvermerk**
 
 © 1983 – 2025 Isabel Schöps (geb. Thiel)
 Alle Rechte vorbehalten.
@@ -1623,3 +1623,15 @@ Lizenzsystem: SI Security Intelligence / SIA – Security Intelligent Security A
 “SIA Security Intelligence Artefact – Technologie und Software”
 Veröffentlichungsstatus: Teil der Dokumentation ***INT-CODE-2025-BTC/ETH
 CORE-ISABELSCHOEPSTHIEL**
+
+## Zugriffsrechte im SIA-System
+
+**anonymous**: Kein Zugriff  
+**authenticated**: Nur Lesezugriff auf veröffentlichte Inhalte  
+**Admins**: Nur Lesezugriff auf veröffentlichte Inhalte  
+**Developers**: Nur Lesezugriff auf veröffentlichte Inhalte  
+**Writers**: Nur Lesezugriff auf veröffentlichte Inhalte  
+
+**Besondere Einschränkungen:**
+- `developer-keys.md` ist nur lesbar
+- `public/**` ist öffentlich sichtbar, aber nur die Urheberin `isbelschoeps-thiel` darf bearbeiten
