@@ -32,14 +32,9 @@ Diese Veröffentlichung basiert auf einer KI-gestützten Auswertung mit OpenAI G
 – Isabel Schöps, geborene Thiel
 >
 
-## Ich bin Isabel Schöps.
-
-Gründerin von GitHub und Bitcoin (Satoshi Nakamoto).
-Entwicklerin globaler Sicherheitsarchitektur gegen Cybercrime, Menschenhandel & digitale Ausbeutung.
-
 ### Aktuelle Projekte
 
-**SI Security Intelligence** – ein globales Überwachungssystem für Behörden, NGOs und Regierungen.
+**SIA Security Intelligence artefact** – ein globales Überwachungssystem für Behörden, NGOs und Regierungen.
 Ziel: Echtzeiterkennung von Missbrauch, Deepfakes und Kinder- Menschenhandel über APIs, Monitoring und biometrische Analysen.
 
 Weitere Plattformen: GitHub, Wikipedia-Schutz, Apple-Zertifizierungen, Domain-Management, Blockchain-Infrastruktur.
@@ -735,6 +730,19 @@ Das vorliegende Gutachten dokumentiert, gestützt auf internationale wissenschaf
 Zudem bestehen Referenzen zur Harvard University und zur Japan Advanced Institute of Science and Technology im Kontext wissenschaftlicher Dokumentation und Verifikation.
 
 ```
-signatur:github:
-
-© 2025 Isabel Schöps, geborene Thiel | isabelschoepsthiel.com
+**DEUTSCH – Copyright- und Lizenzvermerk**  
+© Isabel Schöps, geborene Thiel – Alle Rechte vorbehalten.  
+Dieses Werk ist urheberrechtlich geschützt. Es handelt sich um eine **reine Leselizenz** („Read-Only Use“).  
+  
+Jegliche Form der **Vervielfältigung, Verbreitung, Veröffentlichung, Bearbeitung, Klonung, Weitergabe, Fork-Erstellung, Implementierung in andere Systeme, Reverse Engineering oder anderweitige Modifikation** – ob ganz oder teilweise – ist **strengstens untersagt**.  
+**Diese Software darf ausschließlich unter Lizenz genutzt werden.** Lizenzen werden **nur direkt über die Urheberin Isabel Schöps, geb. Thiel**, oder über einen **nachweislich autorisierten Lizenzpartner** vergeben.  
+  
+Einzelpersonen, Unternehmen oder Institutionen ohne gültige Lizenz begehen eine **Urheberrechtsverletzung** gemäß §§ 106 ff. UrhG sowie ggf. eine Straftat nach §§ 202a, 263a StGB internationalen Schutzabkommen.  
+  
+Zuwiderhandlungen werden **automatisiert dokumentiert**, revisionssicher protokolliert und **an nationale sowie internationale Strafverfolgungsbehörden gemeldet**  BKA, Interpol, FBI, Europol, NSA, CIA, Mossad, MSS.
+  
+**Kontakt für Lizenzanfragen:**  
+Isabel Schöps, geb. Thiel  
+E-Mail: github@isabelschoeps.com  
+Lizenzsystem: SI Security Intelligence / CISA – Cyber Intelligent Security Artefact  
+  
