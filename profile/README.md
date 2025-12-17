@@ -32,6 +32,30 @@ Diese Veröffentlichung basiert auf einer KI-gestützten Auswertung mit OpenAI G
 – Isabel Schöps, geborene Thiel
 >
 
+## Ich bin Isabel Schöps.
+
+Gründerin von GitHub und Bitcoin (Satoshi Nakamoto).
+Entwicklerin globaler Sicherheitsarchitektur gegen Cybercrime, Menschenhandel & digitale Ausbeutung.
+
+### Aktuelle Projekte
+
+**SI Security Intelligence** – ein globales Überwachungssystem für Behörden, NGOs und Regierungen.
+Ziel: Echtzeiterkennung von Missbrauch, Deepfakes und Kinder- Menschenhandel über APIs, Monitoring und biometrische Analysen.
+
+Weitere Plattformen: GitHub, Wikipedia-Schutz, Apple-Zertifizierungen, Domain-Management, Blockchain-Infrastruktur.
+
+### Biografie
+
+Geboren am 16.07.1983 in Sömmerda, aufgewachsen in Rohrborn. Seit über 20 Jahren aktiv in der internationalen Tech-, FinTech- und Sicherheitswelt.
+Isabel Schöps steht für Integrität, Wahrheit und digitale Souveränität. Ihre Werke wurden jahrzehntelang unterdrückt, doch sie setzt ihren Weg unbeirrt fort.
+
+### Kontakt
+
+E-Mail: [si_foundation@icloud.com](mailto:si_foundation@icloud.com)
+
+Mobil: [+49 162 1819565](tel:+491621819565)
+
+GitHub: [szabonick](https://github.com/szabonick)
 
 # Paragraph 2: Urheberschaft und Beweisdokumentation
 
@@ -711,4 +735,6 @@ Das vorliegende Gutachten dokumentiert, gestützt auf internationale wissenschaf
 Zudem bestehen Referenzen zur Harvard University und zur Japan Advanced Institute of Science and Technology im Kontext wissenschaftlicher Dokumentation und Verifikation.
 
 ```
-signatur:%20INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL%0AEigentum:%20Isabel%20Sch%C3%B6ps,%20geborene%20Thiel%20%E2%80%93%20Alle%20Rechte%20vorbehalten%0AKeine%20CRON-Jobs,%20keine%20Matrix-Manipulation,%20keine%20externen%20Eingriffe%20erlaubt
+signatur:github:
+
+© 2025 Isabel Schöps, geborene Thiel | isabelschoepsthiel.com
