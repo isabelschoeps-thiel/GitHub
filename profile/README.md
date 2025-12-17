@@ -489,13 +489,11 @@ Diese Domains und Tracking-Parameter weisen **starke Indikatoren für organisier
 Das **SI-security-intelligence**-Projekt wird ein globales Meldesystem mit direkter Anbindung an internationale Strafverfolgungsbehörden, Regierungen, die UN und NGOs integrieren. Dies dient zum weltweiten Schutz der Zivilbevölkerung im World Wide Web und ist urheberrechtlich geschützt.  
 **Copyright by Isabel Schöps Thiel, Erfurt, Deutschland**
 
-...
-
 > **SI Security Intelligence, ist der letzte digitale Meilenstein der Menschheitsgeschichte.**  
 > Wer heute nicht schützt, verliert morgen die Kontrolle.  
 > – *Isabel Schöps, geborene Thiel*
 
-3.X Erweiterte Urheberschaft und Beweisdokumentation (Technologische Nachweise)
+### Erweiterte Urheberschaft und Beweisdokumentation (Technologische Nachweise)
 
 ### Quellcodedaten und Referenzen
 
