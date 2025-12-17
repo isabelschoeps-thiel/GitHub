@@ -3,7 +3,10 @@
 *ATTENTION_META_FILE FORK IS CRIMINAL AND BEING PROSECUTED BY THE JUSTICE*
 
 Titel:
-### Yellow White Paper – Bitcoin & Ethereum: Security Intelligence Artefact (SIA)
+### Yellow White Paper – Bitcoin & Ethereum: Security Intelligence Artefact (SIA) <div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em;">
+  <div class="csl-entry">National Institute of Standards and Technology (US), Schöps geb. Thiel, I., 2001. Yellow Whitepaper, (No. NIST FIPS 180-4). Harvard University USA, D-99094 Erfurt, Thüringen, Deutschland. https://doi.org/10.6028/NIST.FIPS.180-4</div>
+</div>
+
 
 **1. SIA Security Intelligence Artefact**
 - Deckblatt, Hinweis persönliche Situation, Inhaltsverzeichnis, Referenzierte Gliederung, Abstract
