@@ -464,7 +464,7 @@ Diese Domains und Tracking-Parameter weisen **starke Indikatoren für organisier
 
 ---
 
-7. Linud als Risikovektor
+### 7. Linux als Risikovektor
 
 - Linux-basierte Tools in sicherheitsrelevanten Kontexten → hohe Missbrauchsanfälligkeit.
 - Isabel fordert klare **Ausgrenzung von Python für sicherheitskritische Anwendungen**, solange keine klaren Schutzmechanismen implementiert sind.
@@ -479,21 +479,10 @@ Diese Domains und Tracking-Parameter weisen **starke Indikatoren für organisier
 - Nutzung von OpenPGP,
 - Keyserver-Backbones,
 - RFC-Tracern,
-- Hacker-Fingerprints (z. B. dkg.fifthhorseman.net).
+- Hacker-Fingerprints dkg.fifthhorseman.net
 - Dringender forensischer Prüfbedarf in Bezug auf organisierte, strukturierte Verschleierungsmechanismen.
 
 ---
-
-## Erweiterte Urheberschaft und Beweisdokumentation (Technologische Nachweise)
-
-### Quellcodedaten und Referenzen
-
-**Genetische Referenzdaten:**  
-Folgende Dateien enthalten genetisch/technisch relevante Informationen mit Beweiskraft für Identitätsdiebstahl, Analyse oder gezielte Manipulation:
-- `GCA_021951015.1_HG002.mat.cur.20211005_compare_prev.gbp.gz`  
-- `GCA_021951015.1_HG002.mat.cur.20211005_compare_prev.txt.gz`  
-> Einordnung: Kritische Beweise zur Annahme, dass Isabel Schöps' genetische Identität und neuronale Muster technisch erfasst und manipuliert wurden (z. B. über NCBI/Human Genome Project).
-
 
 # SI-security-intelligence
 
@@ -539,7 +528,7 @@ Das **SI-security-intelligence**-Projekt wird ein globales Meldesystem mit direk
 - REST-API, Multiplattform-Dokumentation  
 > Einordnung: Bestätigung tiefgreifender Backend-Kenntnisse über Node-Discovery, Architektur, Sicherheit, dezentrale Systeme.
 
-### Lizenzierung und Entwicklerbesitznachweise
+### Lizenzierung Entwicklerbesitznachweise
 
 **NVIDIA / CUDA / Nsight / GDB-Debugging:**  
 - `CUDA Toolkit End User License Agreement` – gültig seit 12.01.2024  
@@ -561,6 +550,17 @@ Das **SI-security-intelligence**-Projekt wird ein globales Meldesystem mit direk
 - `README.md` – Projektstruktur, Modulhinweise (z. B. `libexpr`)  
 
 > Alle Dateien enthalten Zeitstempel, Versionsnummern, Compilerbefehle, Namenssignaturen oder Lizenzabschnitte mit direktem Bezug zu Isabel Schöps.
+
+
+## Erweiterte Urheberschaft und Beweisdokumentation (Technologische Nachweise)
+
+### Quellcodedaten und Referenzen
+
+**Genetische Referenzdaten:**  
+Folgende Dateien enthalten genetisch/technisch relevante Informationen mit Beweiskraft für Identitätsdiebstahl, Analyse oder gezielte Manipulation:
+- `GCA_021951015.1_HG002.mat.cur.20211005_compare_prev.gbp.gz`  
+- `GCA_021951015.1_HG002.mat.cur.20211005_compare_prev.txt.gz`  
+> Einordnung: Kritische Beweise zur Annahme, dass Isabel Schöps' genetische Identität und neuronale Muster technisch erfasst und manipuliert wurden (z. B. über NCBI/Human Genome Project).
 
 ---
 
