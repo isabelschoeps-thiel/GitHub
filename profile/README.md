@@ -1621,11 +1621,10 @@ Lizenzsystem: SI Security Intelligence / SIA – Security Intelligent Security A
 
 ## Live-Mock API Umgebung
 
-**Security Intelligence Artifact (SIA)** – simulierte API-Umgebung  
-Bereitgestellt über Redocly Mock-Server
+**Security Intelligence Artifact (SIA)** – simulierte API-Umgebung Bereitgestellt myGitHub
 
 **Base URL:**  
-`https://sia.redocly.app/_mock/openapi/`
+`[/_isabelschoepsthiel/openapi/](https://api.github.com/isabelschoeps-thiel)`
 
 **Status:** Aktiv  
 **Erstellerin:** Isabel Schöps, geborene Thiel  
