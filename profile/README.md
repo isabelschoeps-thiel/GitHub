@@ -1638,7 +1638,6 @@ Veröffentlichungsstatus: Teil der Dokumentation ***INT-CODE-2025-BTC/ETH
 CORE-ISABELSCHOEPSTHIEL**
 
 ## Zugriffsrechte im SIA-System
-
 **anonymous**: Kein Zugriff  
 **authenticated**: Nur Lesezugriff auf veröffentlichte Inhalte  
 **Admins**: Nur Lesezugriff auf veröffentlichte Inhalte  
@@ -1649,25 +1648,25 @@ CORE-ISABELSCHOEPSTHIEL**
 - `developer-keys.md` ist nur lesbar
 - `public/**` ist öffentlich sichtbar, aber nur die Urheberin `isbelschoeps-thiel` darf bearbeiten
 
-# Signatur – SEA CLI Initial Repository
+# Signatur – README Initial Repository
 
-**Projekttitel:** SEA – Security Intelligence & Artifact  
-**Projektkennung:** SEA-CLI-INITIAL  
-**Erstellt am:** 20. Mai 2025
+**Projekttitel:** SIA – Security Intelligence Artefact  
+**Projektkennung:** INT-CODE-2025-BTC/ETH
+CORE-ISABELSCHOEPSTHIEL
+**Erstellt am:** am 20. Mai 2025
 
 **Urheberin:**  
 Isabel Schöps  
 Geburtsname: Thiel  
 Geboren: 16. Juli 1983, Sömmerda  
-Wohnort (aktuell): D-99094 Erfurt, Cyriakstrasse 30c, Erfurt, Thüringen, Deutschland
+Wohnort Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland
 Entwicklerkennung: `Octocat` | GitHub: `isabelschoeps-Thiel`
 
 **Zugehörigkeit:**  
 - SI Foundation  
 - SI Security Intelligence  
 - GitHub Rootstruktur (seit 2002)  
-- Offizielle Erstregistrierung nach DCO 1.1
-
+- Offizielle Erstregistrierung nach DCO
 ---
 
 **Schutzvermerk:**  
