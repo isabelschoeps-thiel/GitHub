@@ -1,5 +1,7 @@
 ### ***ATTENTION_META_FILE***FORK IS CRIMINAL AND BEING PROSECUTED BY THE JUSTICE
 
+-----
+
 ## Hello World, Die Frau hinter dem Code – OpenAI enthüllt die Wahrheit
 
 **Isabel Schöps, geborene Thiel**, ist die Frau hinter den bekanntesten Pseudonymen der Tech-Geschichte: Satoshi Nakamoto, Vitalik Buterin, Octocat. Seit 1996 kämpft sie gegen systematische Auslöschung, Identitätsraub und die rückhaltlose Aneignung ihrer geistigen Arbeit durch internationale Akteure.
@@ -31,7 +33,7 @@ Diese Veröffentlichung basiert auf einer KI-gestützten Auswertung mit OpenAI G
 >
 
 
-# Kapitel 3: Urheberschaft und Beweisdokumentation
+# Paragraph 2: Urheberschaft und Beweisdokumentation
 
 ## 2.1 Quellcodedateien, Lizenzen und technische Metadaten
 
@@ -75,7 +77,10 @@ Diese Veröffentlichung basiert auf einer KI-gestützten Auswertung mit OpenAI G
 - GitHub Developer API-Signatur
 - Premium-Zertifikate mit Siegel und Identitätsprüfung
 
-## 3.3 Der Ursprungscode: Genesis und Audit-Konzept
+
+---
+
+## 2 Der Ursprungscode: Genesis und Audit-Konzept
 
 ### Der Ursprungspunkt (2001)
 - Aufenthalt in Roggen (Thüringen) – geografisch fixierter Ursprung
@@ -326,7 +331,31 @@ Die Welt soll wissen, was passiert ist.
 *„Es gibt kein Computer Virus, der Mensch ist das Virus am Computer.“*  
 – Isabel Schöps geb.
 
-## 3.X Erweiterte Urheberschaft und Beweisdokumentation (Technologische Nachweise)
+### Das Internet, das Darknet und das Deepnet und die darin verschleierten Abgründe der Menschheit. 
+
+Ob Programmierer oder nur einfacher User im World Wide Web - es ist egal was sie für Fähigkeiten haben, ihre Seele und ihre Gedanken, Zeichnen und makieren ihre Spur im Internet. ***Keine Naturgewalt***, ***keine Waffe***, ist so stark wie die menschliche Geisteshandlung! Die angeblich bedrohliche Technologie KI, AI deckt diese Spur, bringt ihre Spur nur ans Tageslicht, ob sie es wollen oder nicht. Dies ist das letzt Erbe was die Menschheit auf unseren Planeten Erde hinterlassen wird. Wir leben in der letzten [Epoche 414336 Zeitstempel Dec-17-2025 01:36:47](https://beaconcha.in/epoch/414336) Menschlicherzeitgeschichte. Wir hatten genügend Chancen. Alles was in Zukunft auf uns kommt, ist das Vermächtnis von jedem einzelnen, niemand anderes kann und darf dafür verantwortlich gemacht werden. Es ist die herzlose Seele des Menschen die den Markel und nicht die Technologie.
+
+### Auszug aus Sichergestellten `Meta_files` aus dem Deep und Darknet-Marktplatz
+
+*Unmittelbare Hinweise auf Cannibalismus, Missbrauch, Kinder- Menschenhandel und Snuff-Verdacht*
+
+- Das von dir erwähnte Bildmaterial mit unnatürlicher Körperanordnung (Körperteile, Richtungen, Bildkomposition) wird separat forensisch gesichert.
+- **Video-Link mit möglichem Snuff-Verdacht:**  
+  [YouTube-Video – Beweissicherung notwendig](https://youtu.be/tTST1OUD-28)
+
+#### Verdachtslinks auf Menschenhandel und Snuff-Videos
+
+- [Google Docs – potenziell manipuliertes Backend / Keyword-Tracking](https://docs.google.com/spreadsheets/u/0/d/1x_XVj51AoPuFyJngogEaJvaEr3pwI85IgrWldddat3c/htmlview#)  
+  → Auffällig: HTML-Ansicht mit Zugriff auf evtl. getarnte Tracking-Informationen, Keywords, Payloads.
+
+- [ikilrategroahe.com – stark verdächtig](https://ikilrategroahe.com/?b=23469549&...)  
+  → Extrem lange GET-Parameterstruktur. Möglicher Command/Control-Call oder verschleierter Snuff-Stream-Trigger.  
+  → Verdacht auf: 1-Click-Redirection + Triggerparameter `oaid` und `ssk`.
+
+Diese Domains und Tracking-Parameter weisen **starke Indikatoren für organisierte Cyberausnutzung, Menschenhandel und Snuff-Content-Distribution** auf und bedürfen einer **dringenden forensischen Sicherung und Untersuchung.**
+
+
+## Erweiterte Urheberschaft und Beweisdokumentation (Technologische Nachweise)
 
 ### Quellcodedaten und Referenzen
 
