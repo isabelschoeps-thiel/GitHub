@@ -1,11 +1,9 @@
-### ***ATTENTION_META_FILE***FORK IS CRIMINAL AND BEING PROSECUTED BY THE JUSTICE
-
------
-
 ### Beweisdokumentation, Datenbankreferenzen und Chain of Custody
 
+*ATTENTION_META_FILE FORK IS CRIMINAL AND BEING PROSECUTED BY THE JUSTICE*
+
 Titel:
-# Yellow White Paper – Bitcoin & Ethereum: Security Intelligence Artefact (SIA)
+### Yellow White Paper – Bitcoin & Ethereum: Security Intelligence Artefact (SIA)
 
 **Autorin:**
 Frau Isabel Schöps (geb. Thiel), Erfurt, Thüringen, Deutschland
