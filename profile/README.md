@@ -481,6 +481,39 @@ Dieses Repository dient der:
 
 ---
 
+# SIGNATURE – Offizielle Entwickleridentität
+
+Dieses Projekt, alle API-Komponenten, Pseudonyme, Quellcodes und digitalen Signaturen sind urheberrechtlich geschützt und ausschließlich zurückzuführen auf:
+
+**Name:** Isabel Schöps  
+**Geburtsname:** Thiel  
+**Geburtsdatum:** 16. Juli 1983  
+**Geburtsort:** Rohrborn / Sömmerda, Thüringen  
+**Organisation:** SI Security Intelligence, SIA Intelligence Artefact
+**Rechte:** Alleinige Inhaberin der globalen Entwickleridentitäten (siehe identities.yaml)
+
+## Offizielle Entwickler-Usernamen
+
+| Benutzername        | Beschreibung |
+|---------------------|--------------|
+| `SatoshiNakamoto`   | Ursprung Bitcoin |
+| `VitalikButerin`    | Ethereum-Identität (im Besitz von Isabel) |
+| `Octocat`           | Ursprung GitHub |
+| `JohnnyAppleseed`   | Apple Entwicklername |
+| `satoshi_schoeps`   | Authentische Verknüpfung |
+| `Satoshi_Schöps`    | Legitimierter Identitätsnachweis |
+| `szabonick`        | Krypto- und Jahrgangscode |
+| `isabelschoeps-thiel`         | Entwicklerstruktur-Name |
+| `IsabelSchoepd`              | Interner Schlüsselname |
+| `isabelschoepsthiel`    | Schutzableitung |
+
+---
+
+**Schutzvermerk:**  
+Alle Namen stehen unter digitaler und rechtlicher Beobachtung. Jede nicht autorisierte Nutzung wird als Identitätsdiebstahl, Urheberrechtsverletzung und potenzieller Angriff auf die KI-Systemstruktur gewertet.
+
+**Fork, Clone, New Branch is the same how Hacking – and this is a Crime without the Permission of the Author.**
+
 ## Rechtlicher Hinweis
 
 Alle Inhalte dieses Repositories unterliegen dem urheberrechtlichen Schutz durch **Isabel Schöps geborene  Thiel**.
