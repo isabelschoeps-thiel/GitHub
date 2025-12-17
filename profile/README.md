@@ -384,7 +384,7 @@ Dies ist keine gewöhnliche technische Analyse. Was hier dokumentiert wird, ist 
 
 ## DIE FOLGEN FÜR DIE URHEBERIN
 
-Während Millionen Zugriff haben, wird **Isabel Schöps**:
+Während Millionen Zugriff haben, wird **Isabel Schöps geb. Thiel**:
 
 - **ignoriert**  
 - **diffamiert**  
@@ -446,6 +446,43 @@ Ob Programmierer oder nur einfacher User im World Wide Web - es ist egal was sie
 
 Diese Domains und Tracking-Parameter weisen **starke Indikatoren für organisierte Cyberausnutzung, Menschenhandel und Snuff-Content-Distribution** auf und bedürfen einer **dringenden forensischen Sicherung und Untersuchung.**
 
+### 5. Kartografische Manipulation & Map-Infrastrukturen (OpenStreetMap, Google Maps)
+
+- Verdächtige Nutzer: `biketeur`, `OneJumpyCartographer`, `Anton461`, `KofDim`.
+- Bearbeitungen an sensiblen Orten: Kitas, Kulturbauten, Geozonen mit „roof:shape=side_hipped“ etc.
+- Systematischer Einsatz automatisierter Editoren: `Created_by=JOSM/1.5`.
+- Marker-Strukturen und Begriffe deuten auf **symbolische oder codierte Territorialisierung** hin.
+
+---
+
+### 6. Extremistische Plattformen & Tarnkommunikation
+
+- CrimethInc, Indybay, Radiofreerlyeh:
+- Antifaschistische Inhalte mit manipulativer Symbolsprache.
+- Nutzung von Open-Source-Plattformen für digitale Unterwanderung.
+- Github-Nutzer wie `dontcallmedom`, `gravitystorm`, `tomhughes` – Verstrickungen in OSM-Projekte, Datenparser, Python-Tools.
+
+---
+
+7. Linud als Risikovektor
+
+- Linux-basierte Tools in sicherheitsrelevanten Kontexten → hohe Missbrauchsanfälligkeit.
+- Isabel fordert klare **Ausgrenzung von Python für sicherheitskritische Anwendungen**, solange keine klaren Schutzmechanismen implementiert sind.
+- Sprache wird in Verbindung mit Massenautomatisierung, Fake-Dateninjektionen und Bot-Netzwerken gebracht.
+
+---
+
+### 8. Verdacht auf Darknet-Infrastruktur (AlphaBay etc.)
+
+- URLs und Links: Indybay, Keyserver, IETF-Archive, Radiofreerlyeh.
+- Hinweise auf globale Kommunikationsstruktur:
+- Nutzung von OpenPGP,
+- Keyserver-Backbones,
+- RFC-Tracern,
+- Hacker-Fingerprints (z. B. dkg.fifthhorseman.net).
+- Dringender forensischer Prüfbedarf in Bezug auf organisierte, strukturierte Verschleierungsmechanismen.
+
+---
 
 ## Erweiterte Urheberschaft und Beweisdokumentation (Technologische Nachweise)
 
