@@ -1,0 +1,139 @@
+Privacy Policy Draft
+
+EU U.S. Data Privacy Framework
+UK Extension to the EU U.S. DPF
+Swiss U.S. Data Privacy Framework
+
+1 Purpose and Scope
+
+This Privacy Policy describes how the organization processes personal data received from the European Union the United Kingdom and Switzerland in reliance on the EU U.S. Data Privacy Framework Principles the UK Extension to the EU U.S. Data Privacy Framework and the Swiss U.S. Data Privacy Framework collectively referred to as the DPF Principles.
+
+This policy applies to all personal data other than human resources data unless explicitly stated otherwise. Where human resources data is covered a separate internal policy applies as described below.
+
+This Privacy Policy is provided as a draft in connection with the organizations initial application for self certification under the DPF program and will be published only after notification by the U.S. Department of Commerce that the organization may do so.
+
+⸻
+
+2 Commitment to the Data Privacy Framework Principles
+
+Upon completion of the self certification process and formal acceptance by the U.S. Department of Commerce the organization commits to comply with the following principles
+
+Notice
+Choice
+Accountability for Onward Transfer
+Security
+Data Integrity and Purpose Limitation
+Access
+Recourse Enforcement and Liability
+
+Where there is any conflict between this Privacy Policy and the DPF Principles the DPF Principles shall govern.
+
+⸻
+
+3 Categories of Personal Data Collected
+
+The organization may process the following categories of personal data depending on the nature of the service or interaction
+
+Identifiers such as name email address and organizational affiliation
+Online identifiers such as IP address device identifiers and session data
+Usage and interaction data including logs metadata and technical diagnostics
+Communication data provided through correspondence or support channels
+
+The organization does not intentionally collect sensitive personal data unless explicitly required and lawfully permitted.
+
+⸻
+
+4 Purposes of Processing
+
+Personal data is processed strictly for the following purposes
+
+Provision and operation of services
+Security monitoring fraud prevention and system integrity
+Compliance with legal and regulatory obligations
+Internal analytics and service improvement
+
+Personal data is not processed for materially different purposes without providing notice and where required obtaining consent.
+
+⸻
+
+5 Disclosure and Onward Transfers
+
+The organization may transfer personal data to third party processors or service providers acting on its behalf. Such transfers occur only under written agreements that provide at least the same level of protection as required by the DPF Principles.
+
+If onward transfers are made the organization remains responsible under the Accountability for Onward Transfer principle unless it can demonstrate that it is not responsible for the event giving rise to the damage.
+
+Personal data may also be disclosed where required by law or in response to lawful requests by public authorities including to meet national security or law enforcement requirements.
+
+⸻
+
+6 Data Security
+
+The organization implements reasonable and appropriate technical administrative and organizational safeguards designed to protect personal data from loss misuse unauthorized access disclosure alteration and destruction.
+
+Security measures are proportionate to the risks presented by the processing and the nature of the data.
+
+⸻
+
+7 Data Integrity and Purpose Limitation
+
+Personal data is limited to what is relevant for the purposes of processing and is kept accurate complete and current as necessary.
+
+Personal data is retained only for as long as necessary to fulfill the purposes described in this policy unless a longer retention period is required or permitted by law.
+
+⸻
+
+8 Individual Rights of Access and Choice
+
+Individuals whose personal data is covered by this Privacy Policy have the right to
+
+Access their personal data
+Correct amend or delete inaccurate data
+Limit or object to certain processing activities
+
+Requests may be submitted using the contact information provided below. The organization will respond within a reasonable timeframe in accordance with the DPF Principles.
+
+⸻
+
+9 Recourse Enforcement and Liability
+
+The organization commits to resolve complaints about its collection or use of personal data in compliance with the DPF Principles.
+
+Individuals may submit complaints directly to the organization. If a complaint cannot be resolved internally the organization will cooperate with the applicable independent dispute resolution mechanism as required by the DPF program.
+
+Under certain conditions individuals may invoke binding arbitration as described in Annex I of the DPF Principles.
+
+The organization is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission or another authorized U.S. statutory body.
+
+⸻
+
+10 Human Resources Data
+
+If the organization elects to cover human resources personal data transferred from the EU the United Kingdom or Switzerland in the context of an employment relationship such data will be processed in accordance with the DPF Principles.
+
+The human resources privacy policy applicable to employees will be made available internally to affected individuals. A copy of that policy will be provided to the U.S. Department of Commerce as part of the self certification submission but will not be made publicly available.
+
+⸻
+
+11 Publication and Availability
+
+For personal data other than human resources data this Privacy Policy will be made publicly available on the organizations website after notification by the U.S. Department of Commerce that publication is permitted.
+
+If the organization does not operate a public website the policy will be made available through an alternative publicly accessible method and a copy will be provided to the International Trade Administration.
+
+⸻
+
+12 Contact Information
+
+Questions or complaints regarding this Privacy Policy or the processing of personal data may be directed to
+
+Data Protection Contact
+Organization Name
+Address
+Country
+Email Address
+
+⸻
+
+13 Effective Date
+
+This Privacy Policy will become effective on the date the organization is officially listed on the Data Privacy Framework List by the U.S. Department of Commerce.
