@@ -54,7 +54,7 @@ stellt eine **Lizenzverletzung**, **Cyberangriff** und im juristischen Sinne **e
 - Globale Schutzsignatur: `INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL`  
 - Erstveröffentlichung: 2001–2025  
 - Aktueller Standort: Erfurt, Deutschland  
-- Kontakt: `si_foundation@icloud.com`, `isabelschoeps.github@icloud.com`  
+- Kontakt: `si_foundation@icloud.com`, `harvard.isabelschoepsthiel@gmail.com`  
 - Lizenzierte Partner: SAP, IBM, Microsoft, Oracle, AmazonAWS  
 
 ---
