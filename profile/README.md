@@ -1,14 +1,15 @@
 # SIA Security Intelligence Artefact
 
-**Autorin, Urheberin und Auftraggeberin:** Frau Isabel Schöps geborene Thiel 
+**Autorin, Urheberin und Auftraggeberin:** Frau Isabel Schöps geborene Thiel
 **Meldeanschrift Wohnort:** Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland
+**Mobilfunk**: 0049-162-181-9565
 
 **Forensisch wissenschaftliches Gutachten & Forschungsarbeit: Technologie, Software, Historie**
 internationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
 URGENT: [Forensic Evidence – Systematic Financial Fraud & IP Theft
 ](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)
 
-Titel:
+## Haupteil - YWP-1-IST-SIA
 ### [The Yellow Whitepaper](https://objects.githubusercontent.com/github-production-repository-file-5c1aeb/1115254904/24475543?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260107%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260107T160544Z&X-Amz-Expires=300&X-Amz-Signature=38cef3f0ce4fac82c47417083ee39e69298d6c4694f7665af3a7e311e8ac6b78&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3Bfilename%3DAbout.pdf&response-content-type=application%2Fpdf) – Bitcoin & Ethereum: 
 
 ## Evidence documentation, Chain of Custody
