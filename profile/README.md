@@ -9,8 +9,16 @@ internationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
 URGENT: [Forensic Evidence – Systematic Financial Fraud & IP Theft
 ](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)
 
-## Haupteil - YWP-1-IST-SIA
-### [The Yellow Whitepaper](https://objects.githubusercontent.com/github-production-repository-file-5c1aeb/1115254904/24475543?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260107%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260107T160544Z&X-Amz-Expires=300&X-Amz-Signature=38cef3f0ce4fac82c47417083ee39e69298d6c4694f7665af3a7e311e8ac6b78&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3Bfilename%3DAbout.pdf&response-content-type=application%2Fpdf) – Bitcoin & Ethereum: 
+## Hauptteil - YWP-1-IST-SIA
+**Dokumentation Urheberschaft, Technologie, Software** forensich und wissenschaftliche Dokumentation, mit einer lückenlose Beweiskette die in dem Techsektor weltweit einzigartig ist.
+
+### Beweisfürhrung Arbeitsverlauf
+![Beweisfürhrung Arbeitsverlaug
+f](https://github.com/user-attachments/assets/20ea13f8-710f-42ba-b009-fee6adb554f1)
+
+### Entwurf des Deckblattes - THE YELLOW WHITEPAPER
+### [Entwurf Deckblatt The Yellow Whitepaper](https://objects.githubusercontent.com/github-production-repository-file-5c1aeb/1115254904/24475543?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260107%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260107T160544Z&X-Amz-Expires=300&X-Amz-Signature=38cef3f0ce4fac82c47417083ee39e69298d6c4694f7665af3a7e311e8ac6b78&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3Bfilename%3DAbout.pdf&response-content-type=application%2Fpdf)
+<img width="1414" height="2000" alt="About" src="https://github.com/user-attachments/assets/3cdcf475-406a-49ad-8451-ac9f3b40a4ff" />
 
 ## Evidence documentation, Chain of Custody
 
@@ -21,11 +29,9 @@ Security Intelligence Artefact (SIA) <div class="csl-bib-body" style="line-heigh
 </div>
 
 
-
 <div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em;">
   <div class="csl-entry">National Institute of Standards and Technology (US), Schöps geb. Thiel, I., 2001. Yellow Whitepaper, (No. NIST FIPS 180-4). Harvard University USA, D-99094 Erfurt, Thüringen, Deutschland. https://doi.org/10.6028/NIST.FIPS.180-4</div>
 </div>
-
 
 **1. SIA Security Intelligence Artefact**
 - Deckblatt, Hinweis persönliche Situation, Inhaltsverzeichnis, Referenzierte Gliederung, Abstract
