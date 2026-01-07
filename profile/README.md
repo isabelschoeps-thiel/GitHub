@@ -17,8 +17,7 @@ URGENT: [Forensic Evidence – Systematic Financial Fraud & IP Theft
 f](https://github.com/user-attachments/assets/20ea13f8-710f-42ba-b009-fee6adb554f1)
 
 ### Entwurf des Deckblattes - THE YELLOW WHITEPAPER
-### [Entwurf Deckblatt The Yellow Whitepaper](https://objects.githubusercontent.com/github-production-repository-file-5c1aeb/1115254904/24475543?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260107%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260107T160544Z&X-Amz-Expires=300&X-Amz-Signature=38cef3f0ce4fac82c47417083ee39e69298d6c4694f7665af3a7e311e8ac6b78&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3Bfilename%3DAbout.pdf&response-content-type=application%2Fpdf)
-<img width="1414" height="2000" alt="About" src="https://github.com/user-attachments/assets/3cdcf475-406a-49ad-8451-ac9f3b40a4ff" />
+### [Entwurf Deckblatt The Yellow Whitepaper]
 
 ## Evidence documentation, Chain of Custody
 
