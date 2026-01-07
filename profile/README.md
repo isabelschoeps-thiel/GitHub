@@ -5,6 +5,8 @@
 **Mobilfunk**: 0049-162-181-9565
 
 **Forensisch wissenschaftliches Gutachten & Forschungsarbeit: Technologie, Software, Historie**
+<img width="1414" height="2000" alt="Gesamtwerk_SIA_Security_Intelligence_Artefact_BEABEITUNG_Freigabe_ausstehend - 299" src="https://github.com/user-attachments/assets/8bd169a1-590d-4fc7-aefc-840586afbdf6" />
+
 internationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
 URGENT: [Forensic Evidence – Systematic Financial Fraud & IP Theft
 ](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)
@@ -17,7 +19,8 @@ URGENT: [Forensic Evidence – Systematic Financial Fraud & IP Theft
 f](https://github.com/user-attachments/assets/20ea13f8-710f-42ba-b009-fee6adb554f1)
 
 ### Entwurf des Deckblattes - THE YELLOW WHITEPAPER
-### [Entwurf Deckblatt The Yellow Whitepaper]
+### [Entwurf Deckblatt The Yellow Whitepaper]<img width="1414" height="2000" alt="About" src="https://github.com/user-attachments/assets/93e9e4c7-e354-4173-bdfb-2dc3514d69b8" />
+
 
 ## Evidence documentation, Chain of Custody
 
