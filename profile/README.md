@@ -1884,12 +1884,15 @@ Schriftliche Strafanzeigen, digitale Signaturen, sowie E-Mail-Korrespondenzen mi
 Die beweiskräftige Zuordnung von Technologien zur Urheberin ist ein zentraler Aspekt dieses forensischen Gutachtens, Die Integrität und Authentizität von Isabel Schöps geborene Thiel und die damit verbundene Glaubwürdigkeit wird mit einer Beweiskette untermauert die weltweit einzigartige und einmalig im Technologie Sektor ist.
 
 ***References***
-Antonopoulos, A. M. (2022). Mastering Bitcoin: Unlocking Digital Cryptocurrencies. O’Reilly Media.
-Chatterjee, R., & Shevchenko, P. (2022). Digital Forensics and Cybercrime. Springer
-Drahos, P. (2016). Intellectual Property, Indigenous People and their Knowledge. Cambridge University Press.
-Drew, J., Lee, R., & White, S. (2022). Cybercrime Investigations and Digital Evidence. Routledge.
-O’Mahony, D. (2022). Open Source Law, Policy and Practice (2nd ed.). Oxford University Press.
-Pollitt, M., Shenoi, S., & Ray, I. (2021). Advances in Digital Forensics XVII. Springer.
+SIGNATUR
+Signed-on-by: Isabel Schöps, geborene Thiel
+Aktueller Aufenthaltsort: Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland
+Datum der Erstveröffentlichung: 2004
+Zertifikat: Erstes offizielles Entwicklerzertifikat
+Alias: Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub
+Zeitstempel: 2026-01-08 03:28 CEST
+Digitale Beweissicherung: https://developercertificate.org Shenoi, S., & Ray, I. (2021). Advances in Digital Forensics XVII. Springer.
 Reyes, A., Ahmad, A., & Maynard, S. B. (2023). Cybersecurity Threat Intelligence: A Practitioner’s Guide. CRC Press.
 
 **Last Updated:** 17.12.2025, 05:00 MEZ  
+
