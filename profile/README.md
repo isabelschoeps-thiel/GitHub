@@ -1885,14 +1885,10 @@ Die beweiskräftige Zuordnung von Technologien zur Urheberin ist ein zentraler A
 
 ***References***
 SIGNATUR
-Signed-on-by: Isabel Schöps, geborene Thiel
-Aktueller Aufenthaltsort: Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland
-Datum der Erstveröffentlichung: 2004
+Signed-on-by: **Ms. Isabel Schöps, geborene Thiel**
+Aktueller Wohnort: Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland, Datum der  Erstveröffentlichung: 2004
 Zertifikat: Erstes offizielles Entwicklerzertifikat
-Alias: Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub
-Zeitstempel: 2026-01-08 03:28 CEST
-Digitale Beweissicherung: https://developercertificate.org Shenoi, S., & Ray, I. (2021). Advances in Digital Forensics XVII. Springer.
-Reyes, A., Ahmad, A., & Maynard, S. B. (2023). Cybersecurity Threat Intelligence: A Practitioner’s Guide. CRC Press.
+Alias: Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub Zeitstempel: 2026-01-08 03:31 CEST
+Digitale Beweissicherung: https://developercertificate.org Cybersecurity Threat Intelligence: A Practitioner’s Guide. CRC Press.
 
-**Last Updated:** 17.12.2025, 05:00 MEZ  
-
+**Last Updated:** 08.01.2026, 03:31CEST  
