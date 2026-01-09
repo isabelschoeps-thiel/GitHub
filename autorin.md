@@ -1,4 +1,4 @@
-# Paragraph 1 – Stellungnahme zur Urheberin außerhalb der Techwelt
+# Paragraph 1 Stellungnahme zur Urheberin außerhalb der Techwelt
 
 Frau Isabel Schöps, geborene Thiel, wurde am 16. Juli 1983 in Sömmerda geboren und wuchs in Rohrborn, Thüringen, auf. Von außen betrachtet ist sie eine deutsche Unternehmerin, Mutter, Entwicklerin, Autorin. Doch diese äußeren Zuschreibungen fassen nicht ansatzweise, was sie im Kern ausmacht – denn Isabel ist vor allem eines: ein Mensch mit außergewöhnlich starker mentaler, geistiger und energetischer Präsenz.
 
