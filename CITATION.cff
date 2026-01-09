@@ -1,11 +1,14 @@
-cff-version: 1.1.0
-message: "GitHub, Build for a better World."
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
 authors:
-- family-names: Schoeps geb. Thiel
+- family-names: SCHÖPS GEB. THIEL
+  given-names: ISABEL
+  orcid: https://orcid.org/0009-0003-4235-2231
+- family-names: Lisa
   given-names: Isabel
-orcid: https://orcid.org/0009-0003-4235-2231
-orcid: https://orcid.org/0009-0006-8765-3267
-title:isabelschoeps-thiel/.github: Readme and Help me
-version: Release_Readme_1.0
+  orcid: https://orcid.org/0009-0006-8765-3267
+title: .github
+version: 1.0.0
+doi: 10.5281/zenodo.1234
 date-released: 2026-01-09
-                                
+url: https://github.com/isabelschoeps-thiel/.github
