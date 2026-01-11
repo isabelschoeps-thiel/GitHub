@@ -87,8 +87,6 @@ Schöps geb. Thiel, I. (2025) SIA Security Intelligence Artefact – Volume 3 - 
 
 [![DOI](https://zenodo.org/badge/1129250146.svg)](https://doi.org/10.5281/zenodo.18204572)
 
-![DOI](https://zenodo.org/badge/1104698616.svg)](https://doi.org/10.5281/zenodo.18192589)
-
 [![DOI](https://zenodo.org/badge/1125435636.svg)](https://doi.org/10.5281/zenodo.18100835)
 
 [![DOI](https://zenodo.org/badge/1123640483.svg)](https://doi.org/10.5281/zenodo.18179547)
