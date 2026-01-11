@@ -67,7 +67,7 @@ Meine aktuelle Lebenssituation stellt eine Verletzung des **Rechts auf Wohnen**,
 Schöps geb. Thiel, I. (2025) SIA Security Intelligence Artefact – Volume 3 - Familiäre Erblinie deutschen Monarchie und letzten Kaiserreich. 1st Aufl, The Decline and Fall of the Habsburg Empire, 1815-1918. 1st Aufl. Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.18013057.
 
 # Volumen 2
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17852789.svg)](https://doi.org/10.5281/zenodo.17852789
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17852789.svg)](https://doi.org/10.5281/zenodo.17852789)
 
 **Schöps geb. Thiel, I. (2025)** „Volumen 2 - SIA-Security-ntelligence-Artefact-Chain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx.pd“, Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Thüringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.17852789.
 
