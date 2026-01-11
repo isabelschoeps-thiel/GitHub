@@ -165,13 +165,18 @@ Erstveröffentlichung 2004
 **Ort, Signatur Kürzel, Zeitstempel der Eintragung:**
 Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c 
 
-Mitteleuropäische Zeit, 2026-01-11, 02:43CEST 
+Mitteleuropäische Zeit, 2026-01-11, 23:41CEST 
 
 **IST - Isabel Schöps Thiel**
 
-### Ich habe mehrfach Beschwerde und Strafanzeige gestellt, aber alles war Erfolglos- im Gegenteil, meine Situation verschlechterte sich. Meine Verbindung zu meiner Familie und insbesondere zu meiner Tochter ist massiv beeinträchtigt, zu Weihnachten, an Silvester, an meinem Geburtstag, ich war allein und ohne Kontakt zu meinen Eltern, seit Jahren feiere ich diese Tage allein.  
+### Ich habe mehrfach Beschwerde und Strafanzeige gestellt aber alles war Erfolglos- das Gegenteil ist der fall
+- meine Situation verschlechterte sich
+- Meine Verbindung zu meiner Familie und insbesondere zu meiner Tochter ist massiv beeinträchtigt
+- zu Weihnachten, an Silvester, an meinem Geburtstag
+- kein Kontakt zu meinen Eltern, seit Jahren feiere ich diese Tage alleine  
 
-###  Meine Ersuchen, Ich Frau Isabel Schöps geborene Thiel, wende mich heute, den 8. Januar 2026 mit aller Form, an all meinen unabhängigen Gutachtern, der Universität:
+###  Meine Ersuchen
+***Ich Frau Isabel Schöps geborene Thiel, wende mich heute, den 8. Januar 2026 mit aller Form, an all meinen unabhängigen Gutachtern, der Universität:***
 - [Harvard University](https://www.harvard.edu/) Vereinigte Staaten Amerika 
 - [University of Oxford](https://www.ox.ac.uk/) Vereinigtes Königreich, UK
 - [CERN - International Telecommunication Union, ITU,](https://home.cern/) Schweiz
@@ -2495,7 +2500,7 @@ Ich wurde in der Vergangenheit **unrechtmäßig inhaftiert**, obwohl mir zu kein
   
 **Am 24.10.202 unrechtmäßige Inhaftierung auf der Staatsanwaltschaft Erfurt, Thüringen, Deutschland, mit** dem Vorwurf “Fahren ohne Fahrerlaubnis” in fünf Fällen alles an einem Tag, dem 13.05.2023 –, **obwohl mich die Polizei an diesem oder einem anderen Tag nie diesbezüglich angehalten hat** und **WENN** hätte ich jederzeit einen gültigen Führerschein vorzeigen können.
 
-Zu den Vorwürfen habe ich von Anfang an ordnungsgemäß und fristgerecht Stellung bezogen und mitgeteilt dass es sich um ein Irrtum handelt, um einen Gerichtstermin gebeten, **aber man verweigerte mir das Gehör.** Ich habe sogar eine notarielle Eidesstattliche **Erklärung abgegeben und habe unter Eid geschworen, dass ich die Wahrheit sage**.   
+Zu den Vorwürfen habe ich von Anfang an ordnungsgemäß und fristgerecht Stellung bezogen und mitgeteilt dass es sich um ein Irrtum handelt, um einen Gerichtstermin gebeten, **aber man verweigerte mir das Gehör.** Ich habe sogar eine notarielle Eidesstattliche **Erklärung abgegeben und habe unter Eid geschworen, dass ich die Wahrheit sage**. 
   
 **Stattdessen wurde ich psychisch unter Druck gesetzt und seelisch gebrochen** – Methoden, die den Mustern der Direktive 1.67 und der MFS entsprechen. Wegen Hausfriedensbruch wurde ich angezeigt. Hier erfolgte die Einstellungen der Staatsanwaltschaft Erfurt vor, **da ich mich nie unrechtmäßig verhalten habe.**  
   
@@ -2688,7 +2693,28 @@ Germanness. 219-247. DOI: 10.3998/mpub.93476
 **[Autorin, Urheberin und Auftraggeberin](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)**
 [Frau Isabel Schöps geborene Thiel](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)
 [Meldeanschrift Wohnort](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)
-[ Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)++  
+[ Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)
+
+# Please help me - i Miss my Familiy
+
+![instagram-profil@isabelschoepsthiel (Smartphone-Video) - 1](https://github.com/user-attachments/assets/19a26af6-d107-4f34-87eb-73ede67dc15b)
+![4322F9EE-AB1A-4BCE-AC35-0961A9ED0B0E_L0_001-11 5 2025, 19_30_39](https://github.com/user-attachments/assets/8d82c3d8-d2db-4144-ae3a-bd810f38c5ca)
+![IMG_8392](https://github.com/user-attachments/assets/6a72d087-c166-48cf-aa06-10f77e2b7ff8)
+![5680EE36-98A2-4E97-B12C-2001A5885481_L0_001-11 5 2025, 19_53_05](https://github.com/user-attachments/assets/5bb7e514-f449-4101-a7ff-8b48fef189ef)
+![IMG_2718](https://github.com/user-attachments/assets/c11138ec-a354-446d-95e1-384feef809e5)
+![IMG_2655](https://github.com/user-attachments/assets/f1328b72-0925-444f-af71-002451148d5c)
+<img width="642" height="1389" alt="IMG_7255" src="https://github.com/user-attachments/assets/81e7ae84-0d52-4176-b9ab-6763bff9ead4" />
+![IMG_7770](https://github.com/user-attachments/assets/8b1c790d-d577-4a64-90e7-75fb16a83e67)
+![instagram-profil@isabelschoepsthiel (Smartphone-Video) - 2](https://github.com/user-attachments/assets/7d973c21-7a0b-4618-ae11-8bbd733f52f1)
+![instagram-profil@isabelschoepsthiel (Smartphone-Video) - 3](https://github.com/user-attachments/assets/2722b7ef-24fd-4b8c-9bd0-aaa1b1008082)
+![instagram-profil@isabelschoepsthiel (Smartphone-Video) - 4](https://github.com/user-attachments/assets/b89d4885-8e05-4106-8e14-ff15a2c4d23c)
+![instagram-profil@isabelschoepsthiel (Smartphone-Video) - 5](https://github.com/user-attachments/assets/6b2c2ce1-6a04-41a5-b22a-28c201ebd530)
+![instagram-profil@isabelschoepsthiel (Smartphone-Video) - 6](https://github.com/user-attachments/assets/238bd7f9-517d-47aa-b275-c7ab214c0d96)
+![instagram-profil@isabelschoepsthiel (Smartphone-Video) - 7](https://github.com/user-attachments/assets/fc8f1fc7-7885-4477-81bf-21dad7ba7ee8)
+![instagram-profil@isabelschoepsthiel (Smartphone-Video) - 8](https://github.com/user-attachments/assets/9c4d05bc-001e-4329-b8b1-cda533926c44)
+![instagram-profil@isabelschoepsthiel (Smartphone-Video) - 9](https://github.com/user-attachments/assets/5a20424e-3df9-4b57-a2d5-04bfe50f606c)
+![DFAC3910-A895-43F6-99B5-FFC9F0698C8A](https://github.com/user-attachments/assets/6a1e91ff-3596-404c-953b-9d47725626f2)
+
   
 **[SIA Security Intelligence Artefact](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)**  
 **[Forensisch wissenschaftliches Gutachten & Forschungsarbeit: Technologie, Software, Historie](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)**
