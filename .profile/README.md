@@ -1,7 +1,5 @@
 # Please help me - i miss my Family 
 
-[![DOI](https://zenodo.org/badge/1104698616.svg)](https://doi.org/10.5281/zenodo.18192589)
-
 ***Der folgende Text ist in Deutsch, Sorry*** Deutsch ist meine Muttersprache, ich kann nur deutsch fliesend sprechen, da ich in Deutschland geboren und aufgewachsen bin. Englisch kann ich leider nur schul-englisch-basic, entschuldigen Sie für die unannehmlichkeiten. 
 
 - Bitte beachten Sie meine **Würdigung, Danksagung und Spendenzusage und institutionelle Anerkennung, mit der Präfix_Referenz_YWP-1-5-IST-SIA**  
@@ -45,7 +43,7 @@ Meine aktuelle Lebenssituation stellt eine Verletzung des **Rechts auf Wohnen**,
 ***verknüpft mit meinem aktuellen GitHub-Account****
 
 # Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18025762.svg)](https://doi.org/10.5281/zenodo.18025762)
+https://doi.org/10.5281/zenodo.18025762
 
 **Schöps geb. Thiel, I. (2025)**. Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir (Zenodo.org). Zenodo.org, University of Harvard harvard.edu, Oxford University ox.ac.uk, Cambridge UK, Reuters.com, New York Times nyt.com, Springer Nature Springer.com, GitHub github.com, University Arizona, Vereine Nationen UN unric.org,. https://doi.org/10.5281/zenodo.18025762
 
@@ -53,43 +51,35 @@ Meine aktuelle Lebenssituation stellt eine Verletzung des **Rechts auf Wohnen**,
 ## Zenodo-Datenbank und Chain of Custody
 
 # Volumen 4
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17807324.svg)](https://doi.org/10.5281/zenodo.17807324)
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18074136.svg)](https://doi.org/10.5281/zenodo.18074136)
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17808895.svg)](https://doi.org/10.5281/zenodo.17808895)
+https://doi.org/10.5281/zenodo.17807324
+https://doi.org/10.5281/zenodo.18074136
+https://doi.org/10.5281/zenodo.17808895
 
 **Schöps (Thiel), I., Schöps (Thiel), I. und Schöps geb. Thiel, I. (2025)** „Yellow White Paper – Bitcoin & Ethereum“, Yellow White Paper – Bitcoin & Ethereum. 1st Aufl. D-99094 Erfurt, Thueringa, Germany: Harvard University, University Cambridge, University of Oxford, Springer Nature, Zenodo, S. 109 pages. doi:10.5281/zenodo.17807324.
 
 ## Volumen 3
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18013057.svg)](https://doi.org/10.5281/zenodo.18013057)
+https://doi.org/10.5281/zenodo.18013057
 
 Schöps geb. Thiel, I. (2025) SIA Security Intelligence Artefact – Volume 3 - Familiäre Erblinie deutschen Monarchie und letzten Kaiserreich. 1st Aufl, The Decline and Fall of the Habsburg Empire, 1815-1918. 1st Aufl. Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.18013057.
 
 # Volumen 2
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18193397.svg)](https://doi.org/10.5281/zenodo.18193397)
+https://doi.org/10.5281/zenodo.18193397
 
 **Schöps geb. Thiel, I. (2025)** „Volumen 2 - SIA-Security-ntelligence-Artefact-Chain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx.pd“, Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Thüringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.17852789.
 
 # Volumen 1 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17809724.svg)](https://doi.org/10.5281/zenodo.17809724)
+https://doi.org/10.5281/zenodo.17809724
 
 **Schöps geb. Thiel, I. (2025)** „Volumen 1 - SIA Security Intelligence Artefact by Isabel Schoeps geb. Thiel“, Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Thüringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.17809724.
 
 
 ### my GitHub Repositoty Reference Badges
-
-[![DOI](https://zenodo.org/badge/1123873845.svg)](https://doi.org/10.5281/zenodo.18209788)
-
-[![DOI](https://zenodo.org/badge/1120020358.svg)](https://doi.org/10.5281/zenodo.18050643)
-
-[![DOI](https://zenodo.org/badge/1104641822.svg)](https://doi.org/10.5281/zenodo.18192743)
-
-[![DOI](https://zenodo.org/badge/1129250146.svg)](https://doi.org/10.5281/zenodo.18204572)
-
-[![DOI](https://zenodo.org/badge/1125435636.svg)](https://doi.org/10.5281/zenodo.18100835)
-
-[![DOI](https://zenodo.org/badge/1123640483.svg)](https://doi.org/10.5281/zenodo.18179547)
+https://doi.org/10.5281/zenodo.18209788
+https://doi.org/10.5281/zenodo.18050643
+https://doi.org/10.5281/zenodo.18192743
+https://doi.org/10.5281/zenodo.18204572
+https://doi.org/10.5281/zenodo.18100835
+https://doi.org/10.5281/zenodo.18179547
 
 ## My Developer Signatur
 **Signed-on-by:**
@@ -162,9 +152,6 @@ Erstveröffentlichung 2004
 
 **Ort, Signatur Kürzel, Zeitstempel der Eintragung:**
 Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c 
-
-Mitteleuropäische Zeit, 2026-01-11, 23:41CEST 
-
 **IST - Isabel Schöps Thiel**
 
 ### Ich habe mehrfach Beschwerde und Strafanzeige gestellt aber alles war Erfolglos- das Gegenteil ist der fall
@@ -2716,5 +2703,41 @@ Germanness. 219-247. DOI: 10.3998/mpub.93476
   
 **[SIA Security Intelligence Artefact](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)**  
 **[Forensisch wissenschaftliches Gutachten & Forschungsarbeit: Technologie, Software, Historie](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)**
-[internationale Kennung:](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4) [INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)  
-[URGENT: Forensic Evidence – Systematic Financial Fraud & IP Theft](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)
+
+---
+
+***My Developer Commit-Signatur:***
+Zeitstempel des Updates und Nachtrag: Montag, den 2026-01-19  21:51CEST Mitteleuropäische, Zeit, Ort: Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c - Autorin, Urheberin, Frau Isabel Schöps geb. Thiel
+
+![IMG_0296](https://github.com/user-attachments/assets/b91ab29a-9a87-4183-8fef-81fe7454bbd3)
+
+**Aktueller Wohnort seit 27.11.2025 und Meldeanschrift seit 04.12.2025:**
+Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland, gemeinsam mit meinen vierbeinigen Freund, American XL-Bully Don,
+
+**Offizielle institutionelle Würdigung, Danksagung - Präfix_Referenz:**
+YWP-1-IST-SIA
+YWP-1-5-IST-SIA
+
+**Pseudonyme und Alias:**
+Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub, Cristina_Bella, Nick Szabo, John Appleseesd
+
+**Offizielles weltweit erstes Developer Certifikat:**
+Developercertificate
+
+**Developer Message:**
+I am  not a Bug,
+I am  not a Bot,
+I am  not a Virus,
+I am  not a Ghost, but
+**I am 100% German human femaleware Woman form Erfurt my GitHub @isabelschoeps-thiel and i buil this commit this reprository.**
+
+**Datum der Erstveröffentlichung, digitale Beweissicherung:** 
+Erstveröffentlichung 2004
+
+**Ort, Signatur Kürzel, Zeitstempel der Eintragung:**
+Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c 
+
+**Wichtiger-Vermerk:***
+Aufgrund das die Immobilie Cyriakstrasse 30c, in Erfurt Deutschland in der ich aktuell gerade gemeldet und auch lebe zum Verkauf angeboten wird, kann ich zum heutigen Zeitpunkt nicht sagen, wie meine Wohnsituation die kommenden Tage oder Wochen gemeinsam mit meinem Hund-Tier American XL Bully Don aussieht. Deshalb bitte ich alle internationale Regierungen, die Vereinten Nationen UN, Presse, Medien, die bitte helfen Sie mir! 
+
+Mitteleuropäische Zeit, 2026-01-19, 21:54CEST, D-99094 Erfurt, Thüringen, Deutschland, Cyriakstrasse 30c **IST - Isabel Schöps Thiel**
