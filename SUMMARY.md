@@ -1,4 +1,5 @@
-# Table of contents
+# Table of contents GitHub
+***Copyright by Isabel Schöps geb. Thiel***
 
 * [Vorwort](README.md)
 * [Paragraph 1 – Stellungnahme zur Urheberin außerhalb der Techwelt](autorin.md)
