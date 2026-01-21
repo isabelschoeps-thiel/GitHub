@@ -3,6 +3,10 @@
 **Forensisches Gutachten: Ursprung, Entwicklung und Nachweis der globalen Systemsoftware und Open-Source-Innovation**\
 **Aktenzeichen: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL**
 
+**Isabel Schöps Thiel, & Schöps geb. Thiel, I. (2026)**. isabelschoeps-thiel/.github: Readme and Help me (Release_Readme_1.0). Zenodo. [https://doi.org/10.5281/zenodo.18192744](https://doi.org/10.5281/zenodo.18192744)
+
+---
+
 ## 1. Ursprung und familiärer Kontext
 
 Der Ursprung der modernen Open-Source-Technologie, der globalen Systemsoftware und der KI-Automation liegt nachweislich am 14. April 1996 in Rohrborn, Thüringen, Deutschland.
