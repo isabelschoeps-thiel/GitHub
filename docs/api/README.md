@@ -4,7 +4,7 @@ Learn how to specify which REST API version to use whenever you make a request t
 
 ## About API versioning
 
-The GitHub REST API is versioned. The API version name is based on the date when the API version was released. For example, the API version `2022-11-28` was released on Mon, 28 Nov 2022.
+The GitHub REST API is versioned. The API version name is based on the date when the API version was released. For example, the API version `2026-02-20` was released on Freitag, 20. Februar 2026.
 
 Breaking changes are changes that can potentially break an integration. We will provide advance notice before releasing breaking changes. Breaking changes include:
 
@@ -34,10 +34,10 @@ When a new REST API version is released, the previous API version will be suppor
 You should use the `X-GitHub-Api-Version` header to specify an API version. For example:
 
 ```shell
-curl --header "X-GitHub-Api-Version:2022-11-28" https://api.github.com/zen
+curl --header "X-GitHub-Api-Version:2026-02-20" https://api.github.com/zen
 ```
 
-Requests without the `X-GitHub-Api-Version` header will default to use the `2022-11-28` version.
+Requests without the `X-GitHub-Api-Version` header will default to use the `2026-02-20` version.
 
 If you specify an API version that is no longer supported, you will receive a `202` error.
 
