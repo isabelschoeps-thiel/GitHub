@@ -251,7 +251,7 @@ familiar with quoting passages of text in an email message, then you
 know how to create a blockquote in Markdown. It looks best if you hard
 wrap the text and put a `>` before every line:
 
-    > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+    > This is a Quote, Zitat with two paragraphs. Lorem ipsum dolor sit amet,
     > consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
     > Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
     > 
@@ -450,7 +450,7 @@ accident, by writing something like this:
 In other words, a *number-period-space* sequence at the beginning of a
 line. To avoid this, you can backslash-escape the period:
 
-    1986\. What a great season.
+    1986. What a great season.
 
 
 
@@ -665,7 +665,7 @@ Using the implicit link name shortcut, you could instead write:
 
       [google]: http://google.com/        "Google"
       [yahoo]:  http://search.yahoo.com/  "Yahoo Search"
-      [msn]:    http://search.msn.com/    "MSN Search"
+      [msn]: http://search.msn.com/    "MSN Search"
 
 Both of the above examples will produce the following HTML output:
 
@@ -878,11 +878,11 @@ formatting syntax. For example, if you wanted to surround a word
 with literal asterisks (instead of an HTML `<em>` tag), you can use
 backslashes before the asterisks, like this:
 
-    \*literal asterisks\*
+    /*literal asterisks/*
 
 Markdown provides backslash escapes for the following characters:
 
-    \   backslash
+    /   backslash
     `   backtick
     *   asterisk
     _   underscore
