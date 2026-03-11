@@ -1,10 +1,10 @@
-# Adding a theme to your GitHub Pages site using Jekyll
+# Adding a theme to your GitHub Pages site using Github
 
 You can personalize your Jekyll site by adding and customizing a theme.
 
 > \[!NOTE] While the `github-pages` gem remains supported for some workflows, GitHub Actions is now the recommended approach for deploying and automating GitHub Pages sites.
 
-People with write permissions for a repository can add a theme to a GitHub Pages site using Jekyll.
+People with write permissions for a repository can add a theme to a GitHub Pages site using Github-pages
 
 If you are publishing from a branch, changes to your site are published automatically when the changes are merged into your site's publishing source. If you are publishing from a custom GitHub Actions workflow, changes are published whenever your workflow is triggered (typically by a push to the default branch). If you want to preview your changes first, you can make the changes locally instead of on GitHub. Then, test your site locally. For more information, see [Testing your GitHub Pages site locally with Jekyll](/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
 
@@ -13,18 +13,6 @@ If you are publishing from a branch, changes to your site are published automati
 Out of the box, the following themes are supported:
 
 * [Architect](https://github.com/pages-themes/architect)
-* [Cayman](https://github.com/pages-themes/cayman)
-* [Dinky](https://github.com/pages-themes/dinky)
-* [Hacker](https://github.com/pages-themes/hacker)
-* [Leap day](https://github.com/pages-themes/leap-day)
-* [Merlot](https://github.com/pages-themes/merlot)
-* [Midnight](https://github.com/pages-themes/midnight)
-* [Minima](https://github.com/jekyll/minima)
-* [Minimal](https://github.com/pages-themes/minimal)
-* [Modernist](https://github.com/pages-themes/modernist)
-* [Slate](https://github.com/pages-themes/slate)
-* [Tactile](https://github.com/pages-themes/tactile)
-* [Time machine](https://github.com/pages-themes/time-machine)
 
 The [`jekyll-remote-theme`](https://github.com/benbalter/jekyll-remote-theme) Jekyll plugin is also available and lets you load other themes.
 
