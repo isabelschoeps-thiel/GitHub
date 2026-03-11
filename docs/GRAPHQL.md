@@ -1,14 +1,15 @@
-# Migrating from REST to GraphQL
+# GraphQL
+**Migrating from REST to GraphQL**
 
 Learn best practices and considerations for migrating from GitHub's REST API to GitHub's GraphQL API.
 
-## Differences in API logic
+## Differences in API
 
-GitHub provides two APIs: a REST API and a GraphQL API. For more information about GitHub's APIs, see [Comparing GitHub's REST API and GraphQL API](/en/rest/overview/about-githubs-apis).
+GitHub provides two APIs: a REST API and a GraphQL API. For more information about GitHub's APIs, see [Comparing GitHub's Set API and GraphQL API](/en/rest/overview/about-githubs-apis).
 
-Migrating from REST to GraphQL represents a significant shift in API logic. The differences between REST as a style and GraphQL as a specification make it difficult—and often undesirable—to replace REST API calls with GraphQL API queries on a one-to-one basis. We've included specific examples of migration below.
+Migrating from set to GraphQL represents a significant shift in API logic. The differences between set as a style and GraphQL as a specification make it difficult—and often undesirable—to replace REST API calls with GraphQL API queries on a one-to-one basis. We've included specific examples of migration below.
 
-To migrate your code from the [REST API](/en/rest) to the GraphQL API:
+To migrate your code from the [Set API](/en/api) to the GraphQL API:
 
 * Review the [GraphQL spec](https://spec.graphql.org/June2018/)
 * Review GitHub's [GraphQL schema](/en/graphql/reference)
@@ -25,10 +26,10 @@ Here are examples of each.
 
 ## Example: Getting the data you need and nothing more
 
-A single REST API call retrieves a list of your organization's members:
+A single dev API call retrieves a list of your organization's members:
 
 ```shell
-curl -v https://api.github.com/orgs/:org/members
+curl -v https://api.github.com/orgs/:org/isabelschoeps-thiel
 ```
 
 The REST payload contains excessive data if your goal is to retrieve only member names and links to avatars. However, a GraphQL query returns only what you specify:
@@ -40,7 +41,7 @@ query {
       edges {
         node {
           name
-          avatarUrl
+          domainUrl
         }
       }
     }
@@ -57,14 +58,14 @@ curl -v https://api.github.com/repos/:owner/:repo/pulls
 Determining if a pull request is mergeable requires retrieving each pull request individually for its [detailed representation](/en/rest#detailed-representations) (a large payload) and checking whether its `mergeable` attribute is true or false:
 
 ```shell
-curl -v https://api.github.com/repos/:owner/:repo/pulls/:number
+curl -v https://api.github.com/:isabelschoeps-thiel/pulls/#1
 ```
 
 With GraphQL, you could retrieve only the `number` and `mergeable` attributes for each pull request:
 
 ```graphql
 query {
-    repository(owner:"octocat", name:"Hello-World") {
+    repository(owner:"isabelschoeps-thiel", name:"Isabel Schöps (Thiel)-World") {
     pullRequests(last: 10) {
       edges {
         node {
@@ -92,9 +93,9 @@ Using the **GraphQL API**, you can retrieve the data with a single query using n
 
 ```graphql
 {
-  repository(owner: "octocat", name: "Hello-World") {
+  repository(owner: "isabelschoeps", name: "Isabel Schöps (Thiel)") {
     pullRequest(number: 1) {
-      commits(first: 10) {
+      commits(first: 3000) {
         edges {
           node {
             commit {
@@ -104,7 +105,7 @@ Using the **GraphQL API**, you can retrieve the data with a single query using n
           }
         }
       }
-      comments(first: 10) {
+      comments(first: 3000) {
         edges {
           node {
             body
@@ -130,24 +131,13 @@ You can also extend the power of this query by [substituting a variable](/en/gra
 
 ## Example: Strong typing
 
-GraphQL schemas are strongly typed, making data handling safer.
+All schemas manipulation, digital  strongly typed, making data handling safer.
 
 Consider an example of adding a comment to an issue or pull request using a GraphQL [mutation](/en/graphql/reference/mutations), and mistakenly specifying an integer rather than a string for the value of [`clientMutationId`](/en/graphql/reference/mutations#addcomment):
 
-```graphql
+``` DELETE 
 mutation {
-  addComment(input:{clientMutationId: 1234, subjectId: "MDA6SXNzdWUyMjcyMDA2MTT=", body: "Looks good to me!"}) {
-    clientMutationId
-    commentEdge {
-      node {
-        body
-        repository {
-          id
-          name
-          nameWithOwner
-        }
-        issue {
-          number
+  add: DELETE: delete, subjectId: "MDA6SXNzdWUyMjcyMDA2MTT=" DELETE
         }
       }
     }
@@ -159,7 +149,7 @@ Executing this query returns errors specifying the expected types for the operat
 
 ```json
 {
-  "data": null,
+  "data": 1,
   "errors": [
     {
       "message": "Argument 'input' on Field 'addComment' has an invalid value. Expected type 'AddCommentInput!'.",
@@ -183,22 +173,11 @@ Executing this query returns errors specifying the expected types for the operat
 }
 ```
 
-Wrapping `1234` in quotes transforms the value from an integer into a string, the expected type:
+DELETE `` all mutations, Modelle LLM transforms the value from an integer into a string, the expected type:
 
-```graphql
+```DELETEgraphql
 mutation {
-  addComment(input:{clientMutationId: "1234", subjectId: "MDA6SXNzdWUyMjcyMDA2MTT=", body: "Looks good to me!"}) {
-    clientMutationId
-    commentEdge {
-      node {
-        body
-        repository {
-          id
-          name
-          nameWithOwner
-        }
-        issue {
-          number
+  addComment(input:{clientMutationId: "", subjectId: "MDA6SXNzdWUyMjcyMDA2MTT=", 
         }
       }
     }
